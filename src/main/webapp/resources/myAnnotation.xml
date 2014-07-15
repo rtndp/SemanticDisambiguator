@@ -1,0 +1,754 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tableAnnotations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://tempuri.org/MyAnnotationSchema.xsd">
+  <columnAnnotations>
+    <colAnnos col="0">
+      <topDBpedia>NA</topDBpedia>
+      <topYago>NA</topYago>
+      <colHeaderYagoCandidates>LivingPeople	Person100007846	BengaliPoliticians	DistrictsOfWestBengal	GeoclassPopulatedPlace	RevolutionarySocialistParty(India)Politicians	TripuriPeople	CitiesAndTownsInNorth24ParganasDistrict	PeopleFromBankuraDistrict	CommunityDevelopmentBlocksInPurbaMedinipurDistrict</colHeaderYagoCandidates>
+      <colHeaderDBpCandidates>AdministrativeRegion	PopulatedPlace	OfficeHolder	EducationalInstitution	University	Automobile	MeanOfTransportation	Politician	PrimeMinister	President</colHeaderDBpCandidates>
+    </colAnnos>
+    <colAnnos col="1">
+      <topDBpedia>OfficeHolder</topDBpedia>
+      <topYago>Person100007846</topYago>
+      <colHeaderYagoCandidates>Person100007846	LivingPeople	BengaliPoliticians	IndianPoliticians	PeopleFromWestBengal	PeopleFromKolkata	RevolutionarySocialistParty(India)Politicians	PeopleFromNadiaDistrict	PeopleFromHooghlyDistrict	TripuriPeople</colHeaderYagoCandidates>
+      <colHeaderDBpCandidates>OfficeHolder	Settlement	PopulatedPlace	AdministrativeRegion	ProtectedArea	University	EducationalInstitution	Cricketer	Athlete	Election</colHeaderDBpCandidates>
+    </colAnnos>
+    <colAnnos col="2">
+      <topDBpedia>NA</topDBpedia>
+      <topYago>NA</topYago>
+      <colHeaderYagoCandidates>Person100007846	LivingPeople	BengaliPoliticians	JusticeParty(India)Politicians	IndianReformers	Rationalists	TamilActivists	Tamil-languAgeWriters	IndianAtheists	TamilNaduPoliticians</colHeaderYagoCandidates>
+      <colHeaderDBpCandidates>OfficeHolder	Work	Film	Album	MusicalWork	Election	Event	PoliticalParty	Settlement	PopulatedPlace</colHeaderDBpCandidates>
+    </colAnnos>
+  </columnAnnotations>
+  <cellAnnotatoons>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Hiten_Barman	14th_Lok_Sabha	Subrata_Bose	13th_Lok_Sabha	Cambridge_University_(UK_Parliament_constituency)	List_of_political_parties_in_India	Bir_Singh_Mahato	Belfast_(constituency)	Oxford_University_(UK_Parliament_constituency)	All_India_Forward_Bloc	South_Leicestershire_(UK_Parliament_constituency)	South_Northamptonshire_(UK_Parliament_constituency)	Tata_Nano	Hayes_and_Harlington_(UK_Parliament_constituency)	City_of_Chester_(UK_Parliament_constituency)	Bethnal_Green_and_Bow_(UK_Parliament_constituency)	Ealing_Southall_(UK_Parliament_constituency)	Jaipur,_Purulia	Rajnagar,_Birbhum	Deganga	List_of_albums_containing_a_hidden_track	Arsa	Harishchandrapur	Karandighi	Goalpokhar	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Hiten_Barman</annotation>
+        <redirects />
+        <candidates>Hiten_Barman	14th_Lok_Sabha	Kamal_Guha	All_India_Forward_Bloc	West_Bengal	13th_Lok_Sabha	List_of_Indian_Federal_Legislation	Forward_Bloc_(Socialist)	Subrata_Bose	List_of_political_parties_in_India	List_of_active_autonomist_and_secessionist_movements	Cooch_Behar	Bir_Singh_Mahato	Buxa_Tiger_Reserve	Presidency_College,_Kolkata	List_of_National_Highways_in_India	Twynam	Miles_Mander	Mahendra_Singh_Dhoni	Lay's	Etymology_of_Cooch_Behar	List_of_National_Highways_in_India_by_highway_number	Dinhata	Dooars	Indian_general_election,_1998	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Hiten_Barman</annotation>
+        <redirects />
+        <candidates>All_India_Forward_Bloc	All_India_Forward_Bloc_(Ruikar)	Hiten_Barman	Marxist_Forward_Bloc	Forward_Bloc_(Socialist)	14th_Lok_Sabha	13th_Lok_Sabha	Indian_National_Congress	Revolutionary_Forward_Bloc	Kamal_Guha	List_of_political_parties_in_India	Revolutionary_Socialist_Party_(India)	Legislative_Assembly_election_results_of_Orissa	All_India_Netaji_Revolutionary_Party	Congress_Socialist_Party	List_of_political_party_symbols_in_India	List_of_recognised_political_parties_in_India	Tamil_Nadu_state_assembly_election,_2006	Bharatiya_Jan_Congress	Sardul_Singh_Caveeshar	State_Assembly_elections_in_India,_2003	Ramchandra_Sakharam_Ruikar	State_Assembly_elections_in_India,_2005	West_Bengal_state_assembly_election,_1952	Maharashtra_state_assembly_elections,_2004	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Joachim_Baxla	Daniel_Cohn-Bendit	Revolutionary_Socialist_Party_(India)	Michel_Rocard	14th_Lok_Sabha	Jean-Marie_Le_Pen	13th_Lok_Sabha	Philippe_de_Villiers	Steve_Chia	Josip_Broz_Tito	Glasgow_Central_(UK_Parliament_constituency)	Salisbury_(UK_Parliament_constituency)	Joseph_Daul	Robert_Navarro	List_of_political_parties_in_India	Siad_Barre	Jean-Luc_Bennahmias	Martin_Schulz	Bernadette_Bourzai	Henri_Weber	Dominique_Vlasto	Salisbury_by-election,_1931	Salisbury_by-election,_1965	List_of_communist_parties	Salisbury_by-election,_1942	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Joachim_Baxla</annotation>
+        <redirects />
+        <candidates>Joachim_Baxla	14th_Lok_Sabha	13th_Lok_Sabha	Revolutionary_Socialist_Party_(India)	Josip_Broz_Tito	List_of_political_parties_in_India	Siad_Barre	List_of_communist_parties	Christian_Rakovsky	Socialist_International	Alexander_Kerensky	International_Union_of_Socialist_Youth	Reunified_Fourth_International	List_of_political_parties_in_the_United_Kingdom	Sanat_Kumar_Mandal	Table_of_political_parties_in_Europe_by_pancontinental_organisation	Political_colour	Ethiopian_Civil_War	Ranen_Barman	Olivier_Besancenot	World_Federation_of_Democratic_Youth	List_of_generic_names_of_political_parties	Stepan_Shahumyan	List_of_U.S._county_name_etymologies,_S-Z	List_of_foreign_delegations_at_the_9th_SED_Congress	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Joachim_Baxla</annotation>
+        <redirects />
+        <candidates>Revolutionary_Socialist_Party_(India)	Revolutionary_Socialist_Party_(Bolshevik)	Somali_Revolutionary_Socialist_Party	Revolutionary_Socialist_Party_(UK)	National_Revolutionary_Socialist_Party	Revolutionary_Socialist_Party_(Peru)	Revolutionary_Socialist_Party_(Portugal)	Revolutionary_Socialist_Party_(Netherlands)	Revolutionary_Socialist_Party_(Sweden)	Congress_Socialist_Party	14th_Lok_Sabha	Pacifist_Socialist_Party	13th_Lok_Sabha	Socialist_Labour_Party_(UK,_1903)	Communist_Party_of_India_(Marxist)	Bolshevik	List_of_political_parties_in_India	Single-party_state	Communist_Party_of_the_Netherlands	Social_Democratic_Workers'_Party_(Netherlands)	All_India_Forward_Bloc	Communist_Marxist_Party	Left_Bloc	Joachim_Baxla	List_of_trade_unions_in_Indian_tea_gardens	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Jalpaiguri_district</annotation>
+        <redirects>Jalpaiguri_District	Jalpaigur</redirects>
+        <candidates>Jalpaiguri_district	Jalpaiguri	New_Jalpaiguri	Malbazar	14th_Lok_Sabha	West_Bengal	13th_Lok_Sabha	Minati_Sen	Mainaguri	Dhupguri	Binnaguri	Hasimara	Sobhaganj	Jaigaon	Chechakhata	Uttar_Kamakhyaguri	Banarhat_Tea_Garden	Jaldhaka_River	Gairkata	Paschim_Jitpur	Uttar_Latabari	Alipurduar_Railway_Junction	Bikash_Chowdhury	Falakata	Bholar_Dabri	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Minati_Sen</annotation>
+        <redirects />
+        <candidates>Minati_Sen	13th_Lok_Sabha	14th_Lok_Sabha	Brinda_Karat	List_of_political_parties_in_India	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	A._K._Gopalan	Sitaram_Yechury	P._Ramamurthi	Jyoti_Basu	E._M._S._Namboodiripad	Basudeb_Acharia	Somnath_Chatterjee	V._S._Achuthanandan	E._K._Nayanar	Thomas_Isaac	Alakesh_Das	Khagen_Das	Hannan_Mollah	Baju_Ban_Riyan	Basudeb_Barman	Samik_Lahiri	Tarit_Baran_Topdar	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Minati_Sen	Communist_Party_of_India_(Marxist)	14th_Lok_Sabha	Joachim_Baxla	Communist_Party_of_China	13th_Lok_Sabha	Kuomintang	Communist_Party_of_Kampuchea	West_Bengal	Mr._and_Mrs._Iyer	Sun_Yat-sen	Janata_Dal	Cambodian_People's_Party	Republican_Party_of_Minnesota	Dixiecrat	Alliance_Party_of_Northern_Ireland	Arizona_Democratic_Party	Viet_Nam_Quoc_Dan_Dang	Chen_Chu	Party_switching_in_the_United_States	Affiliation_Quebec	Progressive_Party_(China)	The_Japanese_Wife	Libertarian_Party_of_Oregon	Party_switching	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Darjeeling</annotation>
+        <redirects>Darjiling	Darjeleeng	Darjling	Daarjeeling</redirects>
+        <candidates>Darjeeling	Darjeeling_(Lok_Sabha_constituency)	St._Paul's_School,_Darjeeling	History_of_Darjeeling	Darjeeling_district	Transport_in_Darjeeling	Darjeeling_tea	History_of_Darjeeling_Himalayan_Railway	Culture_of_Darjeeling	The_Darjeeling_Limited	Darjeeling_Carnival	Darjeeling_Ropeway	Darjeeling_Himalayan_Railway	Darjeeling_Himalayan_hill_region	Darjeeling_Municipality	Observatory_Hill,_Darjeeling	Demographics_of_Darjeeling	Raj_Bhavan,_Darjeeling	Rock_Garden,_Darjeeling	The_Darjeeling_Initiative	Peace_Pagoda,_Darjeeling	Tiger_Hill,_Darjeeling	Darjeeling_tea_(oolong)	The_Darjeeling_Limited_(soundtrack)	Mount_Hermon_School,_Darjeeling	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Dawa_Narbula</annotation>
+        <redirects />
+        <candidates>Dawa_Narbula	Kurseong	14th_Lok_Sabha	List_of_trade_unions	India	West_Bengal	Darjeeling	Darjeeling_(Lok_Sabha_constituency)	Subhas_Chandra_Bose	Indira_Gandhi	List_of_United_States_federal_legislation	Moni_Kumar_Subba	St._Paul's_School,_Darjeeling	Jagjivan_Ram	Mamata_Banerjee	List_of_political_parties_in_India	Pratibha_Patil	Sucheta_Kriplani	Ajit_Jogi	Sonia_Gandhi	A._K._Antony	P._V._Narasimha_Rao	Rahul_Gandhi	K._Karunakaran	G._K._Moopanar	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Periyar_E._V._Ramasamy</annotation>
+        <redirects>E.V.Ramaswamy	E_V_Ramasami_Naicker	EV_Ramasami_Naicker	E.V._Ramasami	E.V.Ramasami	E.V._Ramasami_Naicker	E.V.Ramaswamy_Naicker	E.V._Ramasamy_Naicker	E._V._Ramaswamy_Naicker	E._V._Ramaswami_Naicker	PERIYAR_E.V._RAMASAMY	E._V._Ramasami_Naicker	Periyar_E._V._Ramasami	Periyar_E._V._Ramaswamy	Periyar_Anna_Memorial	Periyar_Ramasami	Thanthai_Periyar	E._V._Ramasami_Periyar	E.V.Ramasami_Naicker	Periyar_E._V._Ramasamy_Naicker	E.V.Ramaswamy_Periyar	E._V._Ramasamy_Naicker	E._V._Ramasami	à®ªà¯à®°à®¿à®¯à®¾à®°à¯	à²ªà³à²°à²¿à²¯à²¾à²°à³	Periyar_E.V._Ramasamy_and_the_Indian_National_Congress	E._V._Ramaswamy	E._V._Ramasamy</redirects>
+        <candidates>Indian_National_Congress	History_of_the_Indian_National_Congress	Indian_National_Congress_(Organisation)	Indian_National_Congress_(Socialist)	Indian_National_Congress_(Sheik_Hassan)	Fiji_Indian_National_Congress	Periyar_E._V._Ramasamy	Indian_Youth_Congress	Congress_Socialist_Party	Janata_Party	Dawa_Narbula	Ashok_Gehlot	Jaiveer_Nagar	M._V._Rajasekharan	Priya_Dutt	Selja_Kumari	Workers_and_Peasants_Party	P._M._Sayeed	Ramsevak_Singh_(Babuji)	A._B._A._Ghani_Khan_Choudhury	Satyavrat_Chaturvedi	Vishvjit_Singh	Ahmed_Patel	Politics_of_West_Bengal	Rajeev_Rajale	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Raiganj</annotation>
+        <redirects />
+        <candidates>Raiganj	Raiganj_(Lok_Sabha_constituency)	Raiganj_Wildlife_Sanctuary	Raiganj_Upazila	14th_Lok_Sabha	13th_Lok_Sabha	Priya_Ranjan_Dasmunsi	Itahar	Kharba	List_of_political_parties_in_India	Jean-Marie_Le_Pen	Goalpokhar	Sunil_Dutt	List_of_protected_areas_in_India	Rahul_Gandhi	Steve_Chia	United_Progressive_Alliance	Ratua	Harishchandrapur	Calcutta_South_(Lok_Sabha_constituency)	Karandighi	Indian_Youth_Congress	List_of_Bengalis	Rangarajan_Kumaramangalam	Adhir_Ranjan_Chowdhury	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Priya_Ranjan_Dasmunsi</annotation>
+        <redirects>Priyaranjan_Dasmunsi	Priyaranjan_Das_Munshi</redirects>
+        <candidates>Priya_Ranjan_Dasmunsi	Raiganj	13th_Lok_Sabha	14th_Lok_Sabha	India	Indian_Youth_Congress	United_Progressive_Alliance	Calcutta_South_(Lok_Sabha_constituency)	List_of_Bengalis	List_of_United_States_federal_legislation	Indira_Gandhi	Subhas_Chandra_Bose	Bal_Thackeray	Raiganj_(Lok_Sabha_constituency)	List_of_political_parties_in_India	Ramdhari_Singh_'Dinkar'	Ministry_of_Parliamentary_Affairs_(India)	East_Bengali_Refugees	Pratibha_Patil	P._V._Narasimha_Rao	Sucheta_Kriplani	Jagjivan_Ram	Rahul_Gandhi	Sonia_Gandhi	K._Karunakaran	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Periyar_E._V._Ramasamy</annotation>
+        <redirects>E.V.Ramaswamy	E_V_Ramasami_Naicker	EV_Ramasami_Naicker	E.V._Ramasami	E.V.Ramasami	E.V._Ramasami_Naicker	E.V.Ramaswamy_Naicker	E.V._Ramasamy_Naicker	E._V._Ramaswamy_Naicker	E._V._Ramaswami_Naicker	PERIYAR_E.V._RAMASAMY	E._V._Ramasami_Naicker	Periyar_E._V._Ramasami	Periyar_E._V._Ramaswamy	Periyar_Anna_Memorial	Periyar_Ramasami	Thanthai_Periyar	E._V._Ramasami_Periyar	E.V.Ramasami_Naicker	Periyar_E._V._Ramasamy_Naicker	E.V.Ramaswamy_Periyar	E._V._Ramasamy_Naicker	E._V._Ramasami	à®ªà¯à®°à®¿à®¯à®¾à®°à¯	à²ªà³à²°à²¿à²¯à²¾à²°à³	Periyar_E.V._Ramasamy_and_the_Indian_National_Congress	E._V._Ramaswamy	E._V._Ramasamy</redirects>
+        <candidates>Indian_National_Congress	History_of_the_Indian_National_Congress	Indian_National_Congress_(Organisation)	Indian_National_Congress_(Socialist)	Indian_National_Congress_(Sheik_Hassan)	Fiji_Indian_National_Congress	Indian_Youth_Congress	Periyar_E._V._Ramasamy	Congress_Socialist_Party	Janata_Party	Priya_Dutt	Ashok_Gehlot	Jaiveer_Nagar	Selja_Kumari	M._V._Rajasekharan	P._M._Sayeed	Workers_and_Peasants_Party	A._B._A._Ghani_Khan_Choudhury	Satyavrat_Chaturvedi	Sajjan_Kumar	Ramsevak_Singh_(Babuji)	Vishvjit_Singh	Ahmed_Patel	Politics_of_West_Bengal	Rajeev_Rajale	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Ranen_Barman	14th_Lok_Sabha	Daniel_Cohn-Bendit	13th_Lok_Sabha	Michel_Rocard	Jean-Marie_Le_Pen	Philippe_de_Villiers	Josip_Broz_Tito	Steve_Chia	List_of_political_parties_in_India	Glasgow_Central_(UK_Parliament_constituency)	Robert_Navarro	Joseph_Daul	Salisbury_(UK_Parliament_constituency)	Siad_Barre	Martin_Schulz	Belfast_West_(UK_Parliament_constituency)	Jean-Luc_Bennahmias	Bernadette_Bourzai	List_of_communist_parties	Dominique_Vlasto	Henri_Weber	Salisbury_by-election,_1965	Salisbury_by-election,_1931	Salisbury_by-election,_1942	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Ranen_Barman</annotation>
+        <redirects />
+        <candidates>Ranen_Barman	14th_Lok_Sabha	13th_Lok_Sabha	Josip_Broz_Tito	List_of_political_parties_in_India	Siad_Barre	Christian_Rakovsky	List_of_active_autonomist_and_secessionist_movements	List_of_communist_parties	Socialist_International	Reunified_Fourth_International	Ethiopian_Civil_War	Joachim_Baxla	International_Union_of_Socialist_Youth	Political_colour	Sanat_Kumar_Mandal	Alexander_Kerensky	List_of_political_parties_in_the_United_Kingdom	Miran_Pavlin	Table_of_political_parties_in_Europe_by_pancontinental_organisation	World_Federation_of_Democratic_Youth	Olivier_Besancenot	List_of_generic_names_of_political_parties	Stepan_Shahumyan	List_of_foreign_delegations_at_the_9th_SED_Congress	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Ranen_Barman</annotation>
+        <redirects />
+        <candidates>Revolutionary_Socialist_Party_(India)	Revolutionary_Socialist_Party_(Bolshevik)	Somali_Revolutionary_Socialist_Party	Revolutionary_Socialist_Party_(UK)	National_Revolutionary_Socialist_Party	Revolutionary_Socialist_Party_(Peru)	Revolutionary_Socialist_Party_(Portugal)	Revolutionary_Socialist_Party_(Netherlands)	Revolutionary_Socialist_Party_(Sweden)	Congress_Socialist_Party	Pacifist_Socialist_Party	14th_Lok_Sabha	13th_Lok_Sabha	Communist_Party_of_India_(Marxist)	Socialist_Labour_Party_(UK,_1903)	Bolshevik	List_of_political_parties_in_India	Single-party_state	Communist_Party_of_the_Netherlands	Social_Democratic_Workers'_Party_(Netherlands)	All_India_Forward_Bloc	Communist_Marxist_Party	Left_Bloc	Ranen_Barman	List_of_trade_unions_in_Indian_tea_gardens	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Malda_district</annotation>
+        <redirects>Malda_District</redirects>
+        <candidates>Malda_district	Pandua,_Malda	Malda_Museum	Rob_Malda	Malda_College	English_Bazar	A._B._A._Ghani_Khan_Choudhury	West_Bengal	Old_Maldah	14th_Lok_Sabha	13th_Lok_Sabha	Gazole	Harishchandrapur	Kharba	Ratua	List_of_Afghanistan-related_topics	Aiho	Kachu_Pukur	Itahar	Gaur,_West_Bengal	List_of_Muslims_of_independent_India	Kendua	Steve_Chia	List_of_Bengalis	Adina_Mosque	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>A._B._A._Ghani_Khan_Choudhury	Subhas_Chandra_Bose	Indira_Gandhi	India	List_of_United_States_federal_legislation	Sucheta_Kriplani	Jagjivan_Ram	List_of_political_parties_in_India	Pratibha_Patil	Sonia_Gandhi	Rahul_Gandhi	P._V._Narasimha_Rao	Manmohan_Singh	Ajit_Jogi	K._Karunakaran	G._K._Moopanar	Jairam_Ramesh	Ambika_Soni	Dasari_Narayana_Rao	Gulzarilal_Nanda	A._K._Antony	C._Rajagopalachari	Lal_Bahadur_Shastri	Oommen_Chandy	Tanguturi_Prakasam	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Periyar_E._V._Ramasamy</annotation>
+        <redirects>E.V.Ramaswamy	E_V_Ramasami_Naicker	EV_Ramasami_Naicker	E.V._Ramasami	E.V.Ramasami	E.V._Ramasami_Naicker	E.V.Ramaswamy_Naicker	E.V._Ramasamy_Naicker	E._V._Ramaswamy_Naicker	E._V._Ramaswami_Naicker	PERIYAR_E.V._RAMASAMY	E._V._Ramasami_Naicker	Periyar_E._V._Ramasami	Periyar_E._V._Ramaswamy	Periyar_Anna_Memorial	Periyar_Ramasami	Thanthai_Periyar	E._V._Ramasami_Periyar	E.V.Ramasami_Naicker	Periyar_E._V._Ramasamy_Naicker	E.V.Ramaswamy_Periyar	E._V._Ramasamy_Naicker	E._V._Ramasami	à®ªà¯à®°à®¿à®¯à®¾à®°à¯	à²ªà³à²°à²¿à²¯à²¾à²°à³	Periyar_E.V._Ramasamy_and_the_Indian_National_Congress	E._V._Ramaswamy	E._V._Ramasamy</redirects>
+        <candidates>Indian_National_Congress	History_of_the_Indian_National_Congress	Indian_National_Congress_(Organisation)	Indian_National_Congress_(Socialist)	Indian_National_Congress_(Sheik_Hassan)	Fiji_Indian_National_Congress	Periyar_E._V._Ramasamy	Indian_Youth_Congress	A._B._A._Ghani_Khan_Choudhury	Congress_Socialist_Party	Janata_Party	Politics_of_Karnataka	Ashok_Gehlot	Workers_and_Peasants_Party	Khurshed_Alam_Khan	Jaiveer_Nagar	Selja_Kumari	M._V._Rajasekharan	P._M._Sayeed	Rao_Shiv_Bahadur_Singh	Satyavrat_Chaturvedi	Ramsevak_Singh_(Babuji)	Ahmed_Patel	Vishvjit_Singh	Politics_of_West_Bengal	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Jangipur,_Ghazipur	Charka,_Jangipur	14th_Lok_Sabha	Pranab_Mukherjee	13th_Lok_Sabha	P._V._Narasimha_Rao	Manmohan_Singh	Indian_National_Congress	Subhas_Chandra_Bose	List_of_political_parties_in_India	Shivraj_Patil	Lata_Mangeshkar	A._K._Antony	Jean-Marie_Le_Pen	Dinesh_Singh	Steve_Chia	Rahul_Gandhi	Naveen_Jindal	R._Prabhu	Rangarajan_Kumaramangalam	Indian_presidential_election,_2007	Balashowry_Vallabhaneni	List_of_Bengalis	N._S._V._Chitthan	Milind_Murli_Deora	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Pranab_Mukherjee</annotation>
+        <redirects>Mr_Pranab_Mukherjee	Pronob_Kumar_Mukharji	Pranab_Kumar_Mukherjee	à¦ªà§à¦°à¦£à¦¬_à¦à§à¦®à¦¾à¦°_à¦®à§à¦à§à¦ªà¦¾à¦§à§à¦¯à¦¾à¦¯à¦¼</redirects>
+        <candidates>Pranab_Mukherjee	Dinesh_Singh	Manmohan_Singh	14th_Lok_Sabha	Lok_Sabha	Shivraj_Patil	P._V._Narasimha_Rao	Indian_National_Congress	A._K._Antony	Lata_Mangeshkar	Foreign_relations_of_India	Parliament_of_India	Union_budget_of_India	Indian_presidential_election,_2007	2007_in_China	United_Progressive_Alliance	National_Maritime_Foundation	List_of_Bengalis	Indian_MRCA_Competition	August_2005_in_India	Sikander_Bakht	Bolpur_(Lok_Sabha_constituency)	Pseudo-secularism	Ballygunge	Indian_Foreign_Minister	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Periyar_E._V._Ramasamy</annotation>
+        <redirects>E.V.Ramaswamy	E_V_Ramasami_Naicker	EV_Ramasami_Naicker	E.V._Ramasami	E.V.Ramasami	E.V._Ramasami_Naicker	E.V.Ramaswamy_Naicker	E.V._Ramasamy_Naicker	E._V._Ramaswamy_Naicker	E._V._Ramaswami_Naicker	PERIYAR_E.V._RAMASAMY	E._V._Ramasami_Naicker	Periyar_E._V._Ramasami	Periyar_E._V._Ramaswamy	Periyar_Anna_Memorial	Periyar_Ramasami	Thanthai_Periyar	E._V._Ramasami_Periyar	E.V.Ramasami_Naicker	Periyar_E._V._Ramasamy_Naicker	E.V.Ramaswamy_Periyar	E._V._Ramasamy_Naicker	E._V._Ramasami	à®ªà¯à®°à®¿à®¯à®¾à®°à¯	à²ªà³à²°à²¿à²¯à²¾à²°à³	Periyar_E.V._Ramasamy_and_the_Indian_National_Congress	E._V._Ramaswamy	E._V._Ramasamy</redirects>
+        <candidates>Indian_National_Congress	History_of_the_Indian_National_Congress	Indian_National_Congress_(Organisation)	Indian_National_Congress_(Socialist)	Indian_National_Congress_(Sheik_Hassan)	Fiji_Indian_National_Congress	Periyar_E._V._Ramasamy	Indian_Youth_Congress	Congress_Socialist_Party	Janata_Party	Ashok_Gehlot	Workers_and_Peasants_Party	Priya_Dutt	Jaiveer_Nagar	M._V._Rajasekharan	Selja_Kumari	P._M._Sayeed	Ramsevak_Singh_(Babuji)	A._B._A._Ghani_Khan_Choudhury	Sajjan_Kumar	Satyavrat_Chaturvedi	Ahmed_Patel	Vishvjit_Singh	Politics_of_West_Bengal	Rajeev_Rajale	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Murshidabad_district</annotation>
+        <redirects>Murshidabad_District</redirects>
+        <candidates>Murshidabad_district	Murshidabad	Kandi,_Murshidabad	Jahangirpur,_Murshidabad	14th_Lok_Sabha	Abdul_Mannan_Hossain	Mir_Jafar	Nabagram	Nawab_of_Bengal	Jalangi_River	Dhulian	Lalgola	Cossimbazar	Adhir_Ranjan_Chowdhury	Anup_Nagar	Dhusaripara	Sahajadpur	Srikantabati	Charka,_Jangipur	Uttar_Mahammadpur	Chachanda	Dafahat	Farrakka_Barrage_Township	Fatellapur	Ghorsala	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Abdul_Mannan_Hossain</annotation>
+        <redirects />
+        <candidates>Abdul_Mannan_Hossain	14th_Lok_Sabha	India	Subhas_Chandra_Bose	Adhir_Ranjan_Chowdhury	Indira_Gandhi	List_of_United_States_federal_legislation	Sucheta_Kriplani	Pratibha_Patil	Sonia_Gandhi	Manmohan_Singh	Jagjivan_Ram	List_of_political_parties_in_India	Rahul_Gandhi	P._V._Narasimha_Rao	C._Rajagopalachari	K._Karunakaran	Ajit_Jogi	Ambika_Soni	A._K._Antony	G._K._Moopanar	Dasari_Narayana_Rao	Gulzarilal_Nanda	Tanguturi_Prakasam	Oommen_Chandy	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Periyar_E._V._Ramasamy</annotation>
+        <redirects>E.V.Ramaswamy	E_V_Ramasami_Naicker	EV_Ramasami_Naicker	E.V._Ramasami	E.V.Ramasami	E.V._Ramasami_Naicker	E.V.Ramaswamy_Naicker	E.V._Ramasamy_Naicker	E._V._Ramaswamy_Naicker	E._V._Ramaswami_Naicker	PERIYAR_E.V._RAMASAMY	E._V._Ramasami_Naicker	Periyar_E._V._Ramasami	Periyar_E._V._Ramaswamy	Periyar_Anna_Memorial	Periyar_Ramasami	Thanthai_Periyar	E._V._Ramasami_Periyar	E.V.Ramasami_Naicker	Periyar_E._V._Ramasamy_Naicker	E.V.Ramaswamy_Periyar	E._V._Ramasamy_Naicker	E._V._Ramasami	à®ªà¯à®°à®¿à®¯à®¾à®°à¯	à²ªà³à²°à²¿à²¯à²¾à²°à³	Periyar_E.V._Ramasamy_and_the_Indian_National_Congress	E._V._Ramaswamy	E._V._Ramasamy</redirects>
+        <candidates>Indian_National_Congress	History_of_the_Indian_National_Congress	Indian_National_Congress_(Organisation)	Indian_National_Congress_(Socialist)	Indian_National_Congress_(Sheik_Hassan)	Fiji_Indian_National_Congress	Periyar_E._V._Ramasamy	Indian_Youth_Congress	Congress_Socialist_Party	Janata_Party	Abdul_Mannan_Hossain	Ashok_Gehlot	Priya_Dutt	Workers_and_Peasants_Party	Jaiveer_Nagar	Selja_Kumari	M._V._Rajasekharan	P._M._Sayeed	Ramsevak_Singh_(Babuji)	A._B._A._Ghani_Khan_Choudhury	Satyavrat_Chaturvedi	Vishvjit_Singh	Ahmed_Patel	Politics_of_West_Bengal	Rajeev_Rajale	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>13th_Lok_Sabha	14th_Lok_Sabha	Adhir_Ranjan_Chowdhury	Priya_Ranjan_Dasmunsi	Jean-Marie_Le_Pen	Steve_Chia	Rahul_Gandhi	List_of_United_States_federal_legislation	Subhas_Chandra_Bose	Rangarajan_Kumaramangalam	Naveen_Jindal	Balashowry_Vallabhaneni	N._S._V._Chitthan	Glasgow_Springburn_(UK_Parliament_constituency)	R._Prabhu	Bruno_Gollnisch	Vincent_Peillon	A._B._A._Ghani_Khan_Choudhury	Joseph_Daul	Sucheta_Kriplani	Sudhi_Ranjan_Das	Shashi_Tharoor	Milind_Murli_Deora	Alain_Lamassoure	Marielle_de_Sarnez	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Adhir_Ranjan_Chowdhury</annotation>
+        <redirects />
+        <candidates>Adhir_Ranjan_Chowdhury	13th_Lok_Sabha	14th_Lok_Sabha	India	Subhas_Chandra_Bose	Indira_Gandhi	List_of_United_States_federal_legislation	Sucheta_Kriplani	Rahul_Gandhi	List_of_political_parties_in_India	Pratibha_Patil	Jagjivan_Ram	Manmohan_Singh	Sonia_Gandhi	P._V._Narasimha_Rao	K._Karunakaran	Ajit_Jogi	G._K._Moopanar	A._K._Antony	Ambika_Soni	Gulzarilal_Nanda	C._Rajagopalachari	Dasari_Narayana_Rao	Oommen_Chandy	Tanguturi_Prakasam	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Periyar_E._V._Ramasamy</annotation>
+        <redirects>E.V.Ramaswamy	E_V_Ramasami_Naicker	EV_Ramasami_Naicker	E.V._Ramasami	E.V.Ramasami	E.V._Ramasami_Naicker	E.V.Ramaswamy_Naicker	E.V._Ramasamy_Naicker	E._V._Ramaswamy_Naicker	E._V._Ramaswami_Naicker	PERIYAR_E.V._RAMASAMY	E._V._Ramasami_Naicker	Periyar_E._V._Ramasami	Periyar_E._V._Ramaswamy	Periyar_Anna_Memorial	Periyar_Ramasami	Thanthai_Periyar	E._V._Ramasami_Periyar	E.V.Ramasami_Naicker	Periyar_E._V._Ramasamy_Naicker	E.V.Ramaswamy_Periyar	E._V._Ramasamy_Naicker	E._V._Ramasami	à®ªà¯à®°à®¿à®¯à®¾à®°à¯	à²ªà³à²°à²¿à²¯à²¾à²°à³	Periyar_E.V._Ramasamy_and_the_Indian_National_Congress	E._V._Ramaswamy	E._V._Ramasamy</redirects>
+        <candidates>Indian_National_Congress	History_of_the_Indian_National_Congress	Indian_National_Congress_(Organisation)	Indian_National_Congress_(Socialist)	Indian_National_Congress_(Sheik_Hassan)	Fiji_Indian_National_Congress	Indian_Youth_Congress	Periyar_E._V._Ramasamy	Congress_Socialist_Party	Janata_Party	A._B._A._Ghani_Khan_Choudhury	Ashok_Gehlot	Jaiveer_Nagar	Priya_Dutt	M._V._Rajasekharan	Selja_Kumari	P._M._Sayeed	Workers_and_Peasants_Party	Sajjan_Kumar	Ramsevak_Singh_(Babuji)	Satyavrat_Chaturvedi	Ahmed_Patel	Vishvjit_Singh	Politics_of_West_Bengal	Rajeev_Rajale	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Krishnanagar,_Nadia</annotation>
+        <redirects>Krishnagar	Krishnagore</redirects>
+        <candidates>Krishnanagar,_Nadia	Jyotirmoyee_Sikdar	14th_Lok_Sabha	13th_Lok_Sabha	Baruihuda	Char_Brahmanagar	Ghurni	Jagadanandapur	Krishnagar_(Lok_Sabha_constituency)	Chapra,_Nadia	Nakashipara	List_of_political_parties_in_India	Palashipara	Bablari_Dewanganj	Ranaghat	Kshidirpur	List_of_communist_parties	Harkishan_Singh_Surjeet	Char_Maijdia	Bikash_Chowdhury	Anil_Basu	P._Ramamurthi	A._K._Gopalan	Prakash_Karat	Brinda_Karat	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Jyotirmoyee_Sikdar</annotation>
+        <redirects>Jyotirmoy_Sikdar</redirects>
+        <candidates>Jyotirmoyee_Sikdar	14th_Lok_Sabha	Krishnanagar,_Nadia	Ranaghat	List_of_Bengalis	Sachin_Tendulkar	Rajiv_Gandhi_Khel_Ratna	Krishnagar_(Lok_Sabha_constituency)	Jyoti_Basu	List_of_people_from_Kolkata	List_of_political_parties_in_India	India_at_the_1996_Summer_Olympics	Arjuna_Award	List_of_people_from_West_Bengal	A._K._Gopalan	Brinda_Karat	List_of_communist_parties	Prakash_Karat	Harkishan_Singh_Surjeet	P._Ramamurthi	E._M._S._Namboodiripad	Somnath_Chatterjee	Sitaram_Yechury	Basudeb_Acharia	Khagen_Das	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Jyotirmoyee_Sikdar	Krishnagar_(Lok_Sabha_constituency)	14th_Lok_Sabha	Ranaghat	Krishnanagar,_Nadia	Nazi_Party	Communist_Party_of_Kampuchea	13th_Lok_Sabha	Sachin_Tendulkar	List_of_people_from_West_Bengal	Jalangi_River	Athletics_at_the_1996_Summer_Olympics_-_Women's_4_x_400_metre_relay	Rajiv_Gandhi_Khel_Ratna	Alliance_Party_of_Northern_Ireland	India_at_the_1996_Summer_Olympics	Arjuna_Award	Monomohun_Ghose	Party_switching_in_the_United_States	Athletics_at_the_1998_Asian_Games	List_of_Bengalis	List_of_people_from_Kolkata	Libertarian_Party_of_Oregon	Constitution_Party_of_Minnesota	Party_switching	Affiliation_Quebec	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Alakesh_Das	Khagen_Das	Bikash_Chowdhury	List_of_political_parties_in_India	14th_Lok_Sabha	Anil_Basu	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	Communist_Party_of_India_(Marxist)	Brinda_Karat	A._K._Gopalan	P._Ramamurthi	Sitaram_Yechury	Jyoti_Basu	Somnath_Chatterjee	V._S._Achuthanandan	E._M._S._Namboodiripad	E._K._Nayanar	Thomas_Isaac	Ram_Chandra_Dome	Basudeb_Acharia	Baju_Ban_Riyan	Basudeb_Barman	Minati_Sen	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Alakesh_Das</annotation>
+        <redirects />
+        <candidates>Alakesh_Das	14th_Lok_Sabha	Brinda_Karat	Nabadwip_(Lok_Sabha_constituency)	List_of_political_parties_in_India	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	A._K._Gopalan	E._M._S._Namboodiripad	Sitaram_Yechury	P._Ramamurthi	Somnath_Chatterjee	Jyoti_Basu	E._K._Nayanar	Khagen_Das	V._S._Achuthanandan	Baju_Ban_Riyan	Minati_Sen	Basudeb_Acharia	Thomas_Isaac	Tarit_Baran_Topdar	Basudeb_Barman	Hannan_Mollah	Rupchand_Pal	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Alakesh_Das	Communist_Party_of_India_(Marxist)	14th_Lok_Sabha	Nabadwip_(Lok_Sabha_constituency)	Portuguese_Communist_Party	Conservative_Party_of_Canada	Nationalist_Congress_Party	Indian_National_Congress	Nazi_Party	Communist_Party_of_Kampuchea	Local_derby	Ghadar_Party	List_of_football_clubs_in_Portugal	Alliance_Party_of_Northern_Ireland	Dixiecrat	Edmar_Aparecida	Trailokyanath_Sanyal	Bahujan_Samaj_Party	Party_switching_in_the_United_States	Kevin_Borich	African_Party_for_the_Independence_of_Guinea_and_Cape_Verde	Affiliation_Quebec	Libertarian_Party_of_Oregon	Party_switching	Constitution_Party_of_Minnesota	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Barasat</annotation>
+        <redirects />
+        <candidates>Barasat	Barasat_(Lok_Sabha_constituency)	Barasat_Peary_Charan_Sarkar_Government_High_School	Barasat_Basirhat_Railway	Kalikrishna_Girls'_High_School	Deganga	14th_Lok_Sabha	Subrata_Bose	13th_Lok_Sabha	Amdanga	All_India_Forward_Bloc	Nebadhai_Duttapukur	Habra	Nokpul	Bara_Bamonia	Swami_Shivananda	Hridaypur	Ashoknagar_Kalyangarh	Guma,_India	Maslandapur	Gobardanga	John_Elliot_Drinkwater_Bethune	Raigachhi	Gaighata	Bagdaha	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Subrata_Bose</annotation>
+        <redirects />
+        <candidates>Subrata_Bose	Barasat	14th_Lok_Sabha	Barasat_(Lok_Sabha_constituency)	Subhas_Chandra_Bose	List_of_trade_unions	All_India_Forward_Bloc	Hiten_Barman	List_of_political_parties_in_India	13th_Lok_Sabha	Bir_Singh_Mahato	Yulia_Tymoshenko	Indian_general_election,_2004	Shyampukur	Deganga	Nandigram_violence	Bagdaha	Tata_Nano	C._Rajagopalachari	Indian_general_election,_1998	Legislative_Assembly_election_results_of_Orissa	Rizwanur_Rahman	State_Assembly_elections_in_India,_2004	List_of_Indian_student_organizations	State_Assembly_elections_in_India,_2005	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Hiten_Barman</annotation>
+        <redirects />
+        <candidates>All_India_Forward_Bloc	All_India_Forward_Bloc_(Ruikar)	Marxist_Forward_Bloc	Forward_Bloc_(Socialist)	14th_Lok_Sabha	Revolutionary_Socialist_Party_(India)	Indian_National_Congress	Barasat	13th_Lok_Sabha	Hiten_Barman	Subhas_Chandra_Bose	Barasat_(Lok_Sabha_constituency)	Subrata_Bose	Congress_Socialist_Party	List_of_political_parties_in_India	All_India_Netaji_Revolutionary_Party	Shyampukur	U._Muthuramalingam_Thevar	Sardul_Singh_Caveeshar	Bagdaha	Sarat_Chandra_Bose	Calcutta_North_West_(Lok_Sabha_constituency)	United_Socialist_Organisation_of_India	P._V._Kurian	Deganga	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Barasat_Basirhat_Railway</annotation>
+        <redirects />
+        <candidates>Barasat_Basirhat_Railway	Basirhat	Hasnabad	14th_Lok_Sabha	Sandeshkhali	Ajay_Chakraborty	13th_Lok_Sabha	Barasat	Chandpur,_Ghola	Jean-Marie_Le_Pen	Dhanyakuria	List_of_political_parties_in_India	Taki_(India)	Baduria	List_of_communist_parties	Steve_Chia	Martin_Schulz	Philippe_de_Villiers	Daniel_Cohn-Bendit	Joseph_Daul	Sujan_Chakraborty	Jean-Luc_Bennahmias	Anil_Basu	Bikash_Chowdhury	Dominique_Vlasto	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Ajay_Chakraborty</annotation>
+        <redirects />
+        <candidates>Ajay_Chakraborty	13th_Lok_Sabha	14th_Lok_Sabha	Brinda_Karat	List_of_political_parties_in_India	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	Jyoti_Basu	A._K._Gopalan	E._M._S._Namboodiripad	World_Federation_of_Democratic_Youth	Indrajit_Gupta	P._K._Vasudevan_Nair	P._Ramamurthi	Sitaram_Yechury	E._K._Nayanar	V._S._Achuthanandan	Somnath_Chatterjee	V._R._Krishna_Iyer	Suravaram_Sudhakar_Reddy	List_of_participants_at_International_Conference_of_Communist_&amp;_Workers'_Parties_1998-2005	Basudeb_Acharia	Khagen_Das	List_of_foreign_delegations_at_the_9th_SED_Congress	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>B._V._Raghavulu	Communist_Party_of_India_(Marxist)	Rashtravadi_Communist_Party	Ajay_Chakraborty	14th_Lok_Sabha	Krantikari_Samyavadi_Party	13th_Lok_Sabha	Communist_Party_of_India_(Marxist-Leninist)_Second_Central_Committee	List_of_delegates_of_the_2nd_Comintern_congress	Politics_of_the_People's_Republic_of_China	Alliance_Party_of_Northern_Ireland	List_of_Indian_film_actors	Rajen_Mookerjee	Party_switching_in_the_United_States	Life_in_a..._Metro	Party_switching	K._R._Gowri_Amma	Libertarian_Party_of_Oregon	Indian_National_Lok_Dal	Bollywood_films_of_2008	List_of_people_from_West_Bengal	Militant_Socialist_Movement	Raju_Chacha	Affiliation_Quebec	Sujan_Chakraborty	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Sanat_Kumar_Mandal	14th_Lok_Sabha	13th_Lok_Sabha	Joynagar_(Lok_Sabha_constituency)	Jaynagar_Mazilpur	Winners_and_runner-ups_in_the_legislative_elections_of_Nepal_1994_and_1999	List_of_political_parties_in_India	Jean-Marie_Le_Pen	Daniel_Cohn-Bendit	Michel_Rocard	Steve_Chia	Philippe_de_Villiers	Glasgow_Central_(UK_Parliament_constituency)	Salisbury_(UK_Parliament_constituency)	Salisbury_by-election,_1965	Salisbury_by-election,_1931	Salisbury_by-election,_1942	Joseph_Daul	Jean-Luc_Bennahmias	Dominique_Vlasto	Martin_Schulz	Henri_Weber	Members_of_Rajya_Sabha	Bernadette_Bourzai	Robert_Navarro	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Sanat_Kumar_Mandal</annotation>
+        <redirects />
+        <candidates>Sanat_Kumar_Mandal	Joynagar_(Lok_Sabha_constituency)	14th_Lok_Sabha	Jaynagar_Mazilpur	13th_Lok_Sabha	Josip_Broz_Tito	List_of_political_parties_in_India	Siad_Barre	List_of_active_autonomist_and_secessionist_movements	List_of_communist_parties	Socialist_International	Joachim_Baxla	Ethiopian_Civil_War	Reunified_Fourth_International	International_Union_of_Socialist_Youth	Alexander_Kerensky	Ranen_Barman	List_of_political_parties_in_the_United_Kingdom	World_Federation_of_Democratic_Youth	Table_of_political_parties_in_Europe_by_pancontinental_organisation	Political_colour	Miran_Pavlin	Olivier_Besancenot	List_of_generic_names_of_political_parties	List_of_foreign_delegations_at_the_9th_SED_Congress	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Sanat_Kumar_Mandal</annotation>
+        <redirects />
+        <candidates>Revolutionary_Socialist_Party_(India)	Revolutionary_Socialist_Party_(Bolshevik)	Somali_Revolutionary_Socialist_Party	Revolutionary_Socialist_Party_(UK)	National_Revolutionary_Socialist_Party	Revolutionary_Socialist_Party_(Peru)	Revolutionary_Socialist_Party_(Portugal)	Revolutionary_Socialist_Party_(Netherlands)	Revolutionary_Socialist_Party_(Sweden)	Congress_Socialist_Party	14th_Lok_Sabha	Pacifist_Socialist_Party	13th_Lok_Sabha	Communist_Party_of_India_(Marxist)	Socialist_Labour_Party_(UK,_1903)	List_of_political_parties_in_India	Communist_Party_of_the_Netherlands	Single-party_state	List_of_recognised_political_parties_in_India	All_India_Forward_Bloc	Jaynagar_Mazilpur	Left_Bloc	Joynagar_(Lok_Sabha_constituency)	Members_of_Rajya_Sabha	Sanat_Kumar_Mandal	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Basudeb_Barman	Basudeb_Acharia	Communist_Party_of_India_(Marxist)	14th_Lok_Sabha	List_of_political_parties_in_India	Bikash_Chowdhury	13th_Lok_Sabha	Anil_Basu	List_of_communist_parties	Harkishan_Singh_Surjeet	A._K._Gopalan	Jyoti_Basu	E._M._S._Namboodiripad	Prakash_Karat	Brinda_Karat	E._K._Nayanar	P._Ramamurthi	Khagen_Das	Sitaram_Yechury	V._S._Achuthanandan	Somnath_Chatterjee	Minati_Sen	S._Ajaya_Kumar	Thomas_Isaac	P._Satheedevi	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Basudeb_Barman</annotation>
+        <redirects />
+        <candidates>Basudeb_Barman	14th_Lok_Sabha	Basudeb_Acharia	Brinda_Karat	List_of_political_parties_in_India	List_of_communist_parties	Harkishan_Singh_Surjeet	Jyoti_Basu	Prakash_Karat	A._K._Gopalan	E._M._S._Namboodiripad	Somnath_Chatterjee	P._Ramamurthi	Sitaram_Yechury	Tarit_Baran_Topdar	V._S._Achuthanandan	Baju_Ban_Riyan	E._K._Nayanar	Samik_Lahiri	Khagen_Das	Minati_Sen	Thomas_Isaac	Alakesh_Das	Santasri_Chatterjee	Hannan_Mollah	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Basudeb_Barman	Communist_Party_of_India_(Marxist)	14th_Lok_Sabha	13th_Lok_Sabha	Conservative_Party_of_Canada	Nazi_Party	Communist_Party_of_Kampuchea	Vlaams_Belang	Any_Way_the_Wind_Blows	Princess_Superstar	Alliance_Party_of_Northern_Ireland	Bahujan_Samaj_Party	Dixiecrat	Ontario_New_Democratic_Party	Affiliation_Quebec	Party_switching_in_the_United_States	Libertarian_Party_of_Oregon	Party_switching	Constitution_Party_of_Minnesota	Indiana_Democratic_Party	Arizona_Democratic_Party	Democratic_Party_of_Illinois	New_Zealand_Progressive_Party	New_Brunswick_New_Democratic_Party	Montana_Democratic_Party	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Diamond_Harbour</annotation>
+        <redirects />
+        <candidates>Diamond_Harbour	Diamond_Harbour,_New_Zealand	Samik_Lahiri	14th_Lok_Sabha	13th_Lok_Sabha	Bilandapur	Kulpi	Uttar_Kalas	List_of_political_parties_in_India	Canning,_South_24_Parganas	List_of_communist_parties	Anil_Basu	A._K._Gopalan	Bikash_Chowdhury	Jyoti_Basu	Prakash_Karat	Harkishan_Singh_Surjeet	Brinda_Karat	Sitaram_Yechury	E._M._S._Namboodiripad	Somnath_Chatterjee	V._S._Achuthanandan	P._Ramamurthi	Khagen_Das	Basudeb_Acharia	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Samik_Lahiri</annotation>
+        <redirects />
+        <candidates>Samik_Lahiri	13th_Lok_Sabha	14th_Lok_Sabha	List_of_political_parties_in_India	Brinda_Karat	List_of_communist_parties	Prakash_Karat	Harkishan_Singh_Surjeet	A._K._Gopalan	E._M._S._Namboodiripad	Jyoti_Basu	P._Ramamurthi	E._K._Nayanar	Sitaram_Yechury	Khagen_Das	Somnath_Chatterjee	V._S._Achuthanandan	Basudeb_Acharia	Basudeb_Barman	Minati_Sen	Thomas_Isaac	T._K._Hamza	S._Ajaya_Kumar	Baju_Ban_Riyan	Alakesh_Das	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Samik_Lahiri	Communist_Party_of_India	13th_Lok_Sabha	14th_Lok_Sabha	Endorsements_for_the_Liberal_Party_of_Canada_leadership_convention,_2006	List_of_communities_in_Newfoundland_and_Labrador	Conservative_Party_(UK)	Nova_Scotia_New_Democratic_Party	Conservative_Party_of_Canada	Nazi_Party	Communist_Party_of_Kampuchea	New_Brunswick_New_Democratic_Party	Green_Party_of_Nova_Scotia	New_Brunswick_Liberal_Association	Alliance_Party_of_Northern_Ireland	Revolutionary_Socialist_Party_(India)	Ontario_New_Democratic_Party	Party_switching_in_the_United_States	House_of_God_(album)	Affiliation_Quebec	King_Diamond_(band)	Libertarian_Party_of_Oregon	Party_switching	Henry_Willis_(Australian_politician)	Constitution_Party_of_Minnesota	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Jadavpur_University</annotation>
+        <redirects>Jadavpur_University_Department_of_English	à¦¯à¦¾à¦¦à¦¬à¦ªà§à¦°_à¦¬à¦¿à¦¶à§à¦¬à¦¬à¦¿à¦¦à§à¦¯à¦¾à¦²à¦¯à¦¼	Jadavpur_university</redirects>
+        <candidates>Jadavpur_University	Jadavpur	Sujan_Chakraborty	Communist_Party_of_India_(Marxist)	14th_Lok_Sabha	13th_Lok_Sabha	West_Bengal	Kolkata	Somnath_Chatterjee	List_of_political_parties_in_India	Sanskriti_(culfest)	College_of_Engineering_and_Management,_Kolaghat	Naxalite	List_of_communist_parties	Anil_Basu	Raja_SC_Mullick_Road	Marxism_in_India	Prakash_Karat	Bowbazar	Bikash_Chowdhury	Graduate_Aptitude_Test_in_Engineering	Harkishan_Singh_Surjeet	Amlan_Das_Gupta	Gariahat_Road	Buddhadeb_Bhattacharya	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Sujan_Chakraborty</annotation>
+        <redirects />
+        <candidates>Sujan_Chakraborty	Communist_Party_of_India_(Marxist)	14th_Lok_Sabha	Brinda_Karat	List_of_political_parties_in_India	Somnath_Chatterjee	List_of_communist_parties	Naxalite	Harkishan_Singh_Surjeet	Prakash_Karat	A._K._Gopalan	Sitaram_Yechury	Jyoti_Basu	V._S._Achuthanandan	E._M._S._Namboodiripad	E._K._Nayanar	Thomas_Isaac	P._Ramamurthi	A._V._Bellarmin	Basudeb_Acharia	Khagen_Das	Santasri_Chatterjee	Baju_Ban_Riyan	Samik_Lahiri	Rupchand_Pal	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Communist_Party_of_India_(Marxist)	14th_Lok_Sabha	Sujan_Chakraborty	13th_Lok_Sabha	Nazi_Party	Conservative_Party_of_Canada	Communist_Party_of_Kampuchea	Bharatiya_Janata_Party	Jadavpur_University	Alliance_Party_of_Northern_Ireland	Life_in_a..._Metro	Party_switching_in_the_United_States	Affiliation_Quebec	Ontario_New_Democratic_Party	Libertarian_Party_of_Oregon	Party_switching	Somnath_Chatterjee	Constitution_Party_of_Minnesota	Indiana_Democratic_Party	Arizona_Democratic_Party	Democratic_Party_of_Illinois	New_Zealand_Progressive_Party	New_Brunswick_New_Democratic_Party	Montana_Democratic_Party	Natural_Law_Party_of_Ontario	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Barrackpore</annotation>
+        <redirects>Barackpore	Barakpur	Barrackpur</redirects>
+        <candidates>Barrackpore_(Lok_Sabha_constituency)	Barrackpore	Indian_Rebellion_of_1857	Tarit_Baran_Topdar	North_Barrackpur	14th_Lok_Sabha	New_Barrackpur	13th_Lok_Sabha	Bijpur,_North_24_Parganas	Alipore_Zoological_Gardens	Jagatdal	Bhatpara	Panihati	Jetia	Patulia	Ruiya	Ichhapur_Defence_Estate	Kanchrapara	Halisahar	Kaugachhi	Muragachha	Talbandha	Jafarpur	Khardaha	Kamarhati	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Tarit_Baran_Topdar</annotation>
+        <redirects />
+        <candidates>Tarit_Baran_Topdar	13th_Lok_Sabha	14th_Lok_Sabha	Barrackpore_(Lok_Sabha_constituency)	Brinda_Karat	List_of_political_parties_in_India	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	A._K._Gopalan	Somnath_Chatterjee	E._M._S._Namboodiripad	Jyoti_Basu	Sitaram_Yechury	P._Ramamurthi	V._S._Achuthanandan	E._K._Nayanar	P._Satheedevi	Khagen_Das	Basudeb_Acharia	Thomas_Isaac	Alakesh_Das	Rupchand_Pal	P._Mohan	S._Ajaya_Kumar	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Tarit_Baran_Topdar	14th_Lok_Sabha	Barrackpore_(Lok_Sabha_constituency)	13th_Lok_Sabha	Hizb_ut-Tahrir	Nazi_Party	Conservative_Party_of_Canada	Communist_Party_of_Kampuchea	List_of_Constituencies_of_Rajasthan_Assembly	Alliance_Party_of_Northern_Ireland	Affiliation_Quebec	Party_switching_in_the_United_States	Ontario_New_Democratic_Party	Extol_International	Libertarian_Party_of_Oregon	Party_switching	Hudson_Institute	Constitution_Party_of_Minnesota	Indiana_Democratic_Party	Arizona_Democratic_Party	Democratic_Party_of_Illinois	New_Zealand_Progressive_Party	New_Brunswick_New_Democratic_Party	Montana_Democratic_Party	Natural_Law_Party_of_Ontario	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Dum_Dum</annotation>
+        <redirects>Dum_dum</redirects>
+        <candidates>Dum_Dum	Netaji_Subhash_Chandra_Bose_International_Airport	Dum-Dum_(album)	Dum_Dum_Pop	Dum_Dum_Dugan	Radio_Dum_Dum	Dum_Dum_(Ekatarina_Velika_album)	St._Mary's_Orphanage_&amp;_Day_School,_Dum_Dum	Expanding_bullet	Dum_Dum_Diddle	TouchÃ©_Turtle_and_Dum_Dum	It's_My_Life_(album)	14th_Lok_Sabha	Kolkata	West_Bengal	South_Dumdum	Leishmaniasis	Dumm_Dumm_Dumm	13th_Lok_Sabha	Arrival_(ABBA_album)	DumDum_Boys	Birati	No._353_Squadron_RAF	Cossipore	Amitava_Nandy	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Amitava_Nandy</annotation>
+        <redirects />
+        <candidates>Amitava_Nandy	14th_Lok_Sabha	Brinda_Karat	List_of_political_parties_in_India	West_Bengal	List_of_communist_parties	13th_Lok_Sabha	Netaji_Subhash_Chandra_Bose_International_Airport	Prakash_Karat	Harkishan_Singh_Surjeet	Jyoti_Basu	A._K._Gopalan	Sitaram_Yechury	P._Ramamurthi	V._S._Achuthanandan	E._M._S._Namboodiripad	Khagen_Das	Somnath_Chatterjee	Thomas_Isaac	E._K._Nayanar	Basudeb_Acharia	Baju_Ban_Riyan	Basudeb_Barman	Alakesh_Das	Minati_Sen	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Neko_nas_posmatra_(album)	Samo_par_godina_za_nas	14th_Lok_Sabha	South_Carolina	Netaji_Subhash_Chandra_Bose_International_Airport	Josh_Doyle	It_Goes_Without_Saying	Dum_Dums_(band)	Amitava_Nandy	Dum-Dum_(album)	Dum_Dum	Kolkata_Suburban_Railway	Radio_Dum_Dum	List_of_S.H.I.E.L.D._members	Ankahee	Dum_Maro_Dum	Hollow-point_bullet	North_24_Parganas_district	Dum_Dum_(Ekatarina_Velika_album)	Sascha_Dum	No._692_Squadron_RAF	Thahan_Phran	Presbyterian_College	Cothill_House	Loreto_College_Coorparoo	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Sudhangshu_Seal</annotation>
+        <redirects />
+        <candidates>Calcutta_North_West_(Lok_Sabha_constituency)	14th_Lok_Sabha	13th_Lok_Sabha	Sudhangshu_Seal	Taltala	Communist_Party_of_India_(Marxist)	Jorabagan	Bowbazar	Cossipore	List_of_political_parties_in_India	Bikash_Chowdhury	Anil_Basu	Burrabazar	Shyampukur	List_of_communist_parties	Harkishan_Singh_Surjeet	E._M._S._Namboodiripad	Jyoti_Basu	Brinda_Karat	Prakash_Karat	A._K._Gopalan	Jorasanko	Sitaram_Yechury	Basudeb_Acharia	P._Ramamurthi	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Sudhangshu_Seal</annotation>
+        <redirects />
+        <candidates>Sudhangshu_Seal	14th_Lok_Sabha	Communist_Party_of_India_(Marxist)	Brinda_Karat	List_of_communist_parties	List_of_political_parties_in_India	Mohammed_Salim_(politician)	Sunil_Khan	Jyoti_Basu	Basudeb_Acharia	Rupchand_Pal	Susmita_Bauri	Basudeb_Barman	Alakesh_Das	Somnath_Chatterjee	Jyotirmoyee_Sikdar	Hannan_Mollah	Mahboob_Zahedi	Santasri_Chatterjee	Prasanta_Pradhan	Sujan_Chakraborty	Anil_Basu	Rupchand_Murmu	Nikhilananda_Sar	Ram_Chandra_Dome	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Communist_Party_of_India_(Marxist)	Sudhangshu_Seal	14th_Lok_Sabha	North_Carolina	Scottish_Church_College,_Calcutta	West_Virginia	Communist_Party_of_Great_Britain	British_National_Party	Green_Party_of_Canada	Nazi_Party	Conservative_Party_of_Canada	Scottish_Labour_Party	Bharatiya_Janata_Party	Party_switching_in_the_United_States	List_of_Indian_Federal_Legislation	List_of_current_United_Kingdom_MPs_by_party	Alliance_Party_of_Northern_Ireland	Brinda_Karat	Nova_Scotia_New_Democratic_Party	Mohammed_Salim_(politician)	Asfandyar_Wali_Khan	Green_Party_of_Ontario	Seals_of_the_U.S._states	List_of_coats_of_arms	North_Dakota_Democratic-NPL_Party	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Mohammed_Salim_(politician)	14th_Lok_Sabha	13th_Lok_Sabha	Entally	List_of_political_parties_in_India	Bikash_Chowdhury	Anil_Basu	List_of_communist_parties	Communist_Party_of_India_(Marxist)	Harkishan_Singh_Surjeet	Brinda_Karat	Prakash_Karat	E._M._S._Namboodiripad	A._K._Gopalan	E._K._Nayanar	Jyoti_Basu	Sitaram_Yechury	Sealdah	P._Ramamurthi	Somnath_Chatterjee	V._S._Achuthanandan	Baju_Ban_Riyan	Basudeb_Acharia	Khagen_Das	Thomas_Isaac	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Salim_Ahmed_Salim</annotation>
+        <redirects>Salim_Salim	Dr._Salim_Ahmed_Salim	Salim_A._Salim</redirects>
+        <candidates>Salim_Ahmed_Salim	Mohammed_Salim_(politician)	Saad_Al-Abdullah_Al-Salim_Al-Sabah	Salim_Ali_(ornithologist)	Ezzedine_Salim	Abdelaziz_Kareem_Salim_al-Noofayee	Salim_Chishti	Salim-Sulaiman	Al-Zeir_Salim	Sabah_III_Al-Salim_Al-Sabah	Sudono_Salim	Salim_Durani	Salim_Khan	Abdullah_III_Al-Salim_Al-Sabah	Salim_Tuama	Emil_Salim	Salim_Rubai_Ali	Salim_Ali's_fruit_bat	Salim_Group	Salim_Mawla_Abu-Hudhayfah	Salim-Javed	Salim_Miya_Ansari	Cyril_Salim_Bustros	Sheikh_Ahmed_Salim_Swedan	Ala_Abdel_Maqsud_Muhammad_Salim	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Communist_Party_of_India_(Marxist)	Mohammed_Salim_(politician)	S._N._Roy	British_Raj	List_of_current_United_Kingdom_MPs_by_party	Kolkata	Nazi_Party	14th_Lok_Sabha	Alliance_Party_of_Northern_Ireland	British_National_Party	Conservative_Party_(UK)	New_Democratic_Party	Scottish_Church_College,_Calcutta	Party_switching_in_the_United_States	Socialist_Unity_Party_of_Germany	Democratic_Unionist_Party	Nova_Scotia_New_Democratic_Party	Scottish_Labour_Party	Eastern_Fleet	Places_of_interest_in_Kolkata	Ontario_New_Democratic_Party	Brinda_Karat	Siege_of_Calcutta	North_Dakota_Democratic-NPL_Party	History_of_the_Scottish_National_Party	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Calcutta_South_(Lok_Sabha_constituency)	Mamata_Banerjee	All_India_Trinamool_Congress	14th_Lok_Sabha	13th_Lok_Sabha	Kolkata	List_of_recognised_political_parties_in_India	List_of_political_parties_in_India	Sonia_Gandhi	Jean-Marie_Le_Pen	P._A._Sangma	Bangaon	Singur	Rizwanur_Rahman	Tata_Nano	Foyle_(Northern_Ireland_Parliament_constituency)	Hawkers_in_Kolkata	Mid_Londonderry_(Northern_Ireland_Parliament_constituency)	Ajit_Kumar_Panja	Belfast_Central_(Northern_Ireland_Parliament_constituency)	Enniskillen_(Northern_Ireland_Parliament_constituency)	Belfast_Falls_(Northern_Ireland_Parliament_constituency)	Fermanagh_and_Tyrone_(Northern_Ireland_Parliament_constituency)	Bruno_Gollnisch	South_Fermanagh_(Northern_Ireland_Parliament_constituency)	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Mamata_Banerjee</annotation>
+        <redirects>Mamata	Mamta_Banerjee</redirects>
+        <candidates>Mamata_Banerjee	All_India_Trinamool_Congress	13th_Lok_Sabha	14th_Lok_Sabha	West_Bengal	Singur	Sonia_Gandhi	List_of_recognised_political_parties_in_India	Somnath_Chatterjee	Hawkers_in_Kolkata	P._V._Narasimha_Rao	List_of_political_parties_in_India	Rizwanur_Rahman	Women_in_India	Tata_Nano	Calcutta_South_(Lok_Sabha_constituency)	Bangaon	Congress	List_of_University_of_Calcutta_people	Bhowanipore	Third_Vajpayee_Ministry	List_of_people_from_West_Bengal	P._A._Sangma	Vanlalzawma	Ajit_Kumar_Panja	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Mamata_Banerjee</annotation>
+        <redirects>Mamata	Mamta_Banerjee</redirects>
+        <candidates>Nationalist_Trinamool_Congress	All_India_Trinamool_Congress	Mamata_Banerjee	14th_Lok_Sabha	Kolkata	13th_Lok_Sabha	Presidency_College,_Kolkata	Somnath_Chatterjee	Indian_Railways	Bharatiya_Janata_Party	University_of_Calcutta	Communist_Party_of_India_(Marxist)	List_of_University_of_Calcutta_people	Ontario_New_Democratic_Party	Alliance_Party_of_Northern_Ireland	Party_switching_in_the_United_States	Grand_National_Party	Singur	Larry_Anthony	Peter_King_(Australian_politician)	Party_switching	Independent_Democrat	List_of_people_from_West_Bengal	Hawkers_in_Kolkata	Graeme_McDougall	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Howrah_station</annotation>
+        <redirects>Howrah_railway_station	Howrah_Station	Howrah_Jn	HWH	Howrah_Junction</redirects>
+        <candidates>Howrah_station	Bally,_Howrah	Howrah_(India)	Howrah_Bridge_(film)	Howrah_district	Howrah_Bridge	Howrah,_Tasmania	Howrah_(ship)	Towns_of_Howrah	Kolkata	Manikpur,_West_Bengal	Clarence_High_School_(Howrah,_Tasmania)	14th_Lok_Sabha	13th_Lok_Sabha	Bengal_Engineering_and_Science_University,_Shibpur	List_of_political_parties_in_India	Shakti_Samanta	Sealdah	Shibpur	Hannan_Mollah	List_of_communist_parties	Anil_Basu	Domjur	Bikash_Chowdhury	Sankrail	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Swadesh_Chakrabortty	Hannan_Mollah	Brinda_Karat	List_of_political_parties_in_India	List_of_communist_parties	Harkishan_Singh_Surjeet	A._K._Gopalan	Prakash_Karat	Jyoti_Basu	Sitaram_Yechury	E._K._Nayanar	P._Ramamurthi	E._M._S._Namboodiripad	Somnath_Chatterjee	V._S._Achuthanandan	Thomas_Isaac	Baju_Ban_Riyan	Basudeb_Acharia	Khagen_Das	Minati_Sen	Basudeb_Barman	Samik_Lahiri	Tarit_Baran_Topdar	Alakesh_Das	Santasri_Chatterjee	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Hannan_Mollah	Howrah_station	Wentworth_Park,_Tasmania	Howrah_Bridge_(film)	Nazi_Party	Conservative_Party_of_Canada	Communist_Party_of_Kampuchea	Bengal_Engineering_and_Science_University,_Shibpur	Affiliation_Quebec	Alliance_Party_of_Northern_Ireland	All_India_Forward_Bloc_(Ruikar)	Howrah,_Tasmania	Ontario_New_Democratic_Party	Party_switching_in_the_United_States	Bharatchandra_Ray	Manoj_Tiwary	Libertarian_Party_of_Oregon	Clarence_United	Party_switching	Constitution_Party_of_Minnesota	Indiana_Democratic_Party	Arizona_Democratic_Party	New_Zealand_Progressive_Party	New_Brunswick_New_Democratic_Party	Montana_Democratic_Party	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Uluberia</annotation>
+        <redirects />
+        <candidates>Uluberia	Santoshpur,_Uluberia	Hannan_Mollah	14th_Lok_Sabha	13th_Lok_Sabha	Uttar_Pirpur	List_of_political_parties_in_India	Communist_Party_of_India_(Marxist)	Bikash_Chowdhury	Balaram_Pota	List_of_communist_parties	Anil_Basu	Harkishan_Singh_Surjeet	Prakash_Karat	A._K._Gopalan	Rajpur_Sonarpur	Jyoti_Basu	Sitaram_Yechury	Naupala	P._Ramamurthi	Brinda_Karat	Harinavi	E._M._S._Namboodiripad	Khagen_Das	Basudeb_Acharia	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Hannan_Mollah</annotation>
+        <redirects />
+        <candidates>Hannan_Mollah	13th_Lok_Sabha	14th_Lok_Sabha	Brinda_Karat	List_of_political_parties_in_India	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	Jyoti_Basu	A._K._Gopalan	Sitaram_Yechury	P._Ramamurthi	E._M._S._Namboodiripad	Somnath_Chatterjee	V._S._Achuthanandan	Thomas_Isaac	E._K._Nayanar	Basudeb_Acharia	Khagen_Das	Baju_Ban_Riyan	Minati_Sen	Basudeb_Barman	Tarit_Baran_Topdar	Alakesh_Das	Samik_Lahiri	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Hannan_Mollah	Communist_Party_of_India_(Marxist)	13th_Lok_Sabha	14th_Lok_Sabha	Conservative_Party_of_Canada	Nazi_Party	Communist_Party_of_Kampuchea	The_Freedom_Association	Affiliation_Quebec	Alliance_Party_of_Northern_Ireland	Mec_Vannin	Party_switching_in_the_United_States	Paddy_Hannan	List_of_Old_Boys_of_Cranbrook_School_Sydney	List_of_Old_Marlburians	Libertarian_Party_of_Oregon	Party_switching	The_Razor's_Edge_(1984_film)	CatDog	Insignificance_(film)	The_Missionary	Club_Paradise	Constitution_Party_of_Minnesota	Mothertime	The_Fraternity	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Senate_of_Serampore_College_(University)</annotation>
+        <redirects>Senate_of_Serampore_College</redirects>
+        <candidates>Senate_of_Serampore_College_(University)	Serampore_College	Board_of_Theological_Education_of_the_Senate_of_Serampore_College	Serampore	Santasri_Chatterjee	Andhra_Christian_Theological_College	14th_Lok_Sabha	South_Asia_Theological_Research_Institute	Joshua_Marshman	Srirampur	Hooghly_district	List_of_political_parties_in_India	List_of_communist_parties	Somnath_Chatterjee	Bikash_Chowdhury	Anil_Basu	Harkishan_Singh_Surjeet	A._K._Gopalan	Protestantism_in_Bangladesh	Jyoti_Basu	Prakash_Karat	E._M._S._Namboodiripad	Brinda_Karat	Gossner_Theological_College	P._Ramamurthi	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Santasri_Chatterjee</annotation>
+        <redirects />
+        <candidates>Santasri_Chatterjee	14th_Lok_Sabha	Somnath_Chatterjee	Brinda_Karat	List_of_political_parties_in_India	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	A._K._Gopalan	P._Ramamurthi	Jyoti_Basu	E._M._S._Namboodiripad	Sitaram_Yechury	V._S._Achuthanandan	E._K._Nayanar	Basudeb_Acharia	Khagen_Das	Alakesh_Das	Thomas_Isaac	Baju_Ban_Riyan	Minati_Sen	Samik_Lahiri	Basudeb_Barman	Tarit_Baran_Topdar	Hannan_Mollah	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Santasri_Chatterjee	Communist_Party_of_India_(Marxist)	Senate_of_Serampore_College_(University)	Serampore_College	14th_Lok_Sabha	Revolutionary_Socialist_Party_(India)	Andhra_Christian_Theological_College	United_Theological_College	Board_of_Theological_Education_of_the_Senate_of_Serampore_College	Tamil_Nadu_Theological_Seminary	Goopy_Gyne_Bagha_Byne	Joi_Baba_Felunath	Hirak_Rajar_Deshe	Ganashatru	Joshua_Marshman	Sonar_Kella	South_Asia_Theological_Research_Institute	Association_of_Theologically_Trained_Women_of_India	Ghare_Baire_(film)	Somnath_Chatterjee	Baptist_Theological_Seminary	Mahanagar	Mokshadacharan_Samadhyayi	Affiliation_Quebec	Sukumar_Ray_(film)	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Hooghly_district</annotation>
+        <redirects>Hooghly_(district)	Hooghly_District</redirects>
+        <candidates>Hooghly_district	Hooghly_River	Pandua,_Hooghly	Hugli-Chuchura	Vidyasagar_Setu	14th_Lok_Sabha	Rupchand_Pal	13th_Lok_Sabha	Anil_Basu	Singur	Nabagram	List_of_political_parties_in_India	Santasri_Chatterjee	Serampore_College	Senate_of_Serampore_College_(University)	Rupchand_Murmu	Damodar_River	Serampore	Bandel	Saptagram	Bansberia	Konnagar	Mogra	History_of_Kolkata	Bikash_Chowdhury	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Rupchand_Pal</annotation>
+        <redirects />
+        <candidates>Rupchand_Pal	13th_Lok_Sabha	14th_Lok_Sabha	Santasri_Chatterjee	List_of_political_parties_in_India	Anil_Basu	Brinda_Karat	List_of_communist_parties	Prakash_Karat	Harkishan_Singh_Surjeet	Jyoti_Basu	A._K._Gopalan	V._S._Achuthanandan	E._M._S._Namboodiripad	Sitaram_Yechury	P._Ramamurthi	E._K._Nayanar	Thomas_Isaac	Somnath_Chatterjee	Minati_Sen	Basudeb_Acharia	Khagen_Das	Basudeb_Barman	Alakesh_Das	Baju_Ban_Riyan	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Rupchand_Pal	14th_Lok_Sabha	13th_Lok_Sabha	Indian_National_Congress	Pal_(Surname)	Conservative_Party_of_Canada	Nazi_Party	Communist_Party_of_Kampuchea	Anil_Basu	Vidyasagar_Setu	Santasri_Chatterjee	Alliance_Party_of_Northern_Ireland	List_of_Constituencies_of_Rajasthan_Assembly	Ontario_New_Democratic_Party	Rupchand_Murmu	Andhra_Christian_Theological_College	Party_switching_in_the_United_States	Atulya_Ghosh	All_India_Forward_Bloc_(Ruikar)	Mario_Party_(series)	Affiliation_Quebec	Pal_Joey_(musical)	Libertarian_Party_of_Oregon	Party_switching	Constitution_Party_of_Minnesota	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Anil_Basu	Arambag	13th_Lok_Sabha	14th_Lok_Sabha	Jyoti_Basu	List_of_political_parties_in_India	Bikash_Chowdhury	List_of_communist_parties	Communist_Party_of_India_(Marxist)	Ganashakti	Somnath_Chatterjee	Prakash_Karat	A._K._Gopalan	Radhanagore	Harkishan_Singh_Surjeet	V._S._Achuthanandan	List_of_Nepal-related_topics	Brinda_Karat	Sitaram_Yechury	E._M._S._Namboodiripad	E._K._Nayanar	Thomas_Isaac	P._Ramamurthi	Khagen_Das	Basudeb_Acharia	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Anil_Basu</annotation>
+        <redirects />
+        <candidates>Anil_Basu	13th_Lok_Sabha	14th_Lok_Sabha	Brinda_Karat	List_of_political_parties_in_India	Jyoti_Basu	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	E._M._S._Namboodiripad	A._K._Gopalan	Sitaram_Yechury	P._Ramamurthi	Basudeb_Acharia	Somnath_Chatterjee	Basudeb_Barman	V._S._Achuthanandan	E._K._Nayanar	Minati_Sen	Baju_Ban_Riyan	Samik_Lahiri	Khagen_Das	Thomas_Isaac	Alakesh_Das	Tarit_Baran_Topdar	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Anil_Basu	Communist_Party_of_India_(Marxist)	Communist_Party_of_India	Madhoshi	No_Entry	14th_Lok_Sabha	Padma_Bhushan	13th_Lok_Sabha	Chameli_Ki_Shaadi	Race_(film)	Darna_Zaroori_Hai	GreenLeft	Nehlle_Pe_Dehlla	Dharmendra	Humko_Deewana_Kar_Gaye	Jyoti_Basu	Piya_Ka_Ghar	Bipasha_Basu	Tina_Munim	Bollywood_films_of_2007	List_of_people_from_West_Bengal	Sadbhavana_Party	Affiliation_Quebec	List_of_Bengali_language_authors_(chronological)	List_of_Bengalis	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Panskura</annotation>
+        <redirects />
+        <candidates>Panskura	Gurudas_Dasgupta	14th_Lok_Sabha	13th_Lok_Sabha	All_India_Trade_Union_Congress	Nandigram	Kolkata_Suburban_Railway	List_of_political_parties_in_India	Jean-Marie_Le_Pen	List_of_communist_parties	Vidyasagar_University	Daniel_Cohn-Bendit	List_of_National_Highways_in_India	Martin_Schulz	Philippe_de_Villiers	Joseph_Daul	Steve_Chia	Dominique_Vlasto	Jean-Luc_Bennahmias	Bethnal_Green_and_Bow_(UK_Parliament_constituency)	Bikash_Chowdhury	Prakash_Karat	Harkishan_Singh_Surjeet	Anil_Basu	Dasgupta	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Gurudas_Dasgupta</annotation>
+        <redirects />
+        <candidates>Gurudas_Dasgupta	Dasgupta	All_India_Trade_Union_Congress	14th_Lok_Sabha	List_of_communist_parties	List_of_political_parties_in_India	Brinda_Karat	Indrajit_Gupta	Harkishan_Singh_Surjeet	Prakash_Karat	E._M._S._Namboodiripad	World_Federation_of_Democratic_Youth	A._K._Gopalan	Jyoti_Basu	Somnath_Chatterjee	E._K._Nayanar	P._Ramamurthi	List_of_participants_at_International_Conference_of_Communist_&amp;_Workers'_Parties_1998-2005	Sitaram_Yechury	V._S._Achuthanandan	List_of_foreign_delegations_at_the_9th_SED_Congress	Suravaram_Sudhakar_Reddy	P._K._Vasudevan_Nair	Basudeb_Acharia	Khagen_Das	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>B._V._Raghavulu	14th_Lok_Sabha	Gurudas_Dasgupta	Rashtravadi_Communist_Party	Communist_Party_of_Kampuchea	Conservative_Party_of_Canada	Nazi_Party	Krantikari_Samyavadi_Party	Communist_Party_of_India_(Marxist-Leninist)_Second_Central_Committee	List_of_Martinians	List_of_delegates_of_the_2nd_Comintern_congress	All_India_Trade_Union_Congress	Dasgupta	Alliance_Party_of_Northern_Ireland	Politics_of_the_People's_Republic_of_China	Constitution_Party_of_Minnesota	Party_switching_in_the_United_States	Ontario_New_Democratic_Party	Uttara_(film)	Kolkata_Suburban_Railway	Party_switching	Libertarian_Party_of_Oregon	Mircea_Eliade	K._R._Gowri_Amma	Affiliation_Quebec	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Tamluk</annotation>
+        <redirects />
+        <candidates>Tamluk	13th_Lok_Sabha	14th_Lok_Sabha	West_Bengal	List_of_political_parties_in_India	Tamralipta	Matangini_Hazra	Quit_India_Movement	List_of_communist_parties	Bikash_Chowdhury	Anil_Basu	Ram_Chandra_Dome	Harkishan_Singh_Surjeet	Nandigram_violence	Prakash_Karat	Brinda_Karat	A._K._Gopalan	Jyoti_Basu	List_of_Nepal-related_topics	Somnath_Chatterjee	List_of_political_organizations_whose_name_include_"Marxist-Leninist"	Nandigram	E._M._S._Namboodiripad	Sitaram_Yechury	P._Ramamurthi	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Seth_Lakshman_Chandra</annotation>
+        <redirects>Seth_Lakshman_Chandra</redirects>
+        <candidates>Seth_Lakshman_Chandra	Brinda_Karat	List_of_political_parties_in_India	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	A._K._Gopalan	Jyoti_Basu	V._S._Achuthanandan	E._M._S._Namboodiripad	P._Ramamurthi	Sitaram_Yechury	Somnath_Chatterjee	E._K._Nayanar	Khagen_Das	Basudeb_Acharia	Thomas_Isaac	A._V._Bellarmin	Minati_Sen	Tarit_Baran_Topdar	Basudeb_Barman	N._N._Krishnadas	Hannan_Mollah	P._Karunakaran	P._Satheedevi	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>14th_Lok_Sabha	Communist_Party_of_India_(Marxist)	13th_Lok_Sabha	Padma_Bhushan	West_Bengal	National_Federation_Party_(Fiji)	Chaitanya_Lakshman	Indian_National_Congress	Revolutionary_Socialist_Party_(India)	History_of_the_United_States_Republican_Party	List_of_Martinians	Padma_Shri	Ghadar_Party	Alliance_Party_of_Northern_Ireland	Prince_Gopal_Lakshman	Alabama_Democratic_Party	List_of_Non-resident_Indians	Party_switching_in_the_United_States	Chandni	List_of_Constituencies_of_Rajasthan_Assembly	Bahujan_Samaj_Party	Libertarian_Party_of_Oregon	Telugu_Desam_Party	Party_switching	Affiliation_Quebec	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Contai_High_School</annotation>
+        <redirects />
+        <candidates>Contai_High_School	Contai	Prasanta_Pradhan	Belda	List_of_political_parties_in_India	14th_Lok_Sabha	Bikash_Chowdhury	Anil_Basu	List_of_Nepal-related_topics	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	Brinda_Karat	A._K._Gopalan	E._M._S._Namboodiripad	Somnath_Chatterjee	V._S._Achuthanandan	E._K._Nayanar	Jyoti_Basu	Basudeb_Acharia	Khagen_Das	Sitaram_Yechury	Thomas_Isaac	P._Ramamurthi	Minati_Sen	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Prasanta_Pradhan</annotation>
+        <redirects />
+        <candidates>Prasanta_Pradhan	14th_Lok_Sabha	Brinda_Karat	List_of_political_parties_in_India	List_of_communist_parties	Prakash_Karat	Harkishan_Singh_Surjeet	A._K._Gopalan	Jyoti_Basu	E._M._S._Namboodiripad	P._Ramamurthi	Sitaram_Yechury	P._Mohan	Somnath_Chatterjee	E._K._Nayanar	V._S._Achuthanandan	Khagen_Das	Basudeb_Acharia	Tarit_Baran_Topdar	Alakesh_Das	Minati_Sen	Thomas_Isaac	Basudeb_Barman	Hannan_Mollah	Rupchand_Pal	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Prasanta_Pradhan	Bharatiya_Janata_Party	14th_Lok_Sabha	S._N._Roy	Nazi_Party	Conservative_Party_of_Canada	Communist_Party_of_Kampuchea	List_of_Martinians	Affiliation_Quebec	Hiten_Tejwani	Alliance_Party_of_Northern_Ireland	Ta_Ra_Rum_Pum	Jaane_Bhi_Do_Yaaro	Ontario_New_Democratic_Party	Party_switching_in_the_United_States	Munna_Bhai_M.B.B.S.	Libertarian_Party_of_Oregon	Party_switching	Constitution_Party_of_Minnesota	Indiana_Democratic_Party	Arizona_Democratic_Party	Democratic_Party_of_Illinois	New_Zealand_Progressive_Party	New_Brunswick_New_Democratic_Party	Montana_Democratic_Party	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Midnapore</annotation>
+        <redirects>Medinipur	Midnapore/medinipur	Midnapur</redirects>
+        <candidates>Partition_of_Midnapore	Midnapore	Midnapore_College	Midnapore,_Alberta	Paschim_Medinipur_district	Midnapore_Collegiate_School	Purba_Medinipur_district	Prabodh_Panda	West_Bengal	Vidyasagar_University	List_of_political_parties_in_India	Contai	Rupchand_Murmu	Belda	United_Front_(1967)	Ghatal	Communist_Party_of_India_(Marxist-Leninist)_People's_War	Hijli_Detention_Camp	List_of_communist_parties	Huseyn_Shaheed_Suhrawardy	Kshirpai	Battle_of_Tukaroi	Unity_Centre_of_Communist_Revolutionaries_of_India_(Marxist-Leninist)	Manabendra_Nath_Roy	Chandrakona	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Prabodh_Panda</annotation>
+        <redirects />
+        <candidates>Prabodh_Panda	14th_Lok_Sabha	Rupchand_Murmu	Dantan	Brinda_Karat	List_of_political_parties_in_India	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	Jyoti_Basu	A._K._Gopalan	Midnapore_College	World_Federation_of_Democratic_Youth	Vidyasagar_University	Indrajit_Gupta	Somnath_Chatterjee	E._M._S._Namboodiripad	P._Ramamurthi	Sitaram_Yechury	E._K._Nayanar	V._S._Achuthanandan	List_of_participants_at_International_Conference_of_Communist_&amp;_Workers'_Parties_1998-2005	Suravaram_Sudhakar_Reddy	Basudeb_Acharia	Khagen_Das	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Prabodh_Panda	Rashtravadi_Communist_Party	B._V._Raghavulu	Krantikari_Samyavadi_Party	Communist_Party_of_India_(Marxist-Leninist)_Second_Central_Committee	List_of_delegates_of_the_2nd_Comintern_congress	Giant_Panda	Politics_of_the_People's_Republic_of_China	Kung_Fu_Panda	Rupchand_Murmu	Animal_Collective	West_Bengal_Socialist_Party	Panda_Bear_(musician)	K._R._Gowri_Amma	Midnapore_College	Bro's	With_It	You_Say_Party!_We_Say_Die!	Vidyasagar_University	Huseyn_Shaheed_Suhrawardy	Ibrahim_Ismail_Chundrigar	H._E._A._Cotton	Affiliation_Quebec	Reactor_Party	Battle_of_Tukaroi	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Rupchand_Murmu	Rupchand_Pal	13th_Lok_Sabha	14th_Lok_Sabha	Bikash_Chowdhury	List_of_political_parties_in_India	Anil_Basu	List_of_communist_parties	A._K._Gopalan	Harkishan_Singh_Surjeet	Jyoti_Basu	Prakash_Karat	Brinda_Karat	E._M._S._Namboodiripad	Sitaram_Yechury	V._S._Achuthanandan	Somnath_Chatterjee	E._K._Nayanar	P._Ramamurthi	Thomas_Isaac	Baju_Ban_Riyan	Minati_Sen	Alakesh_Das	Khagen_Das	Basudeb_Acharia	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Rupchand_Murmu</annotation>
+        <redirects />
+        <candidates>Rupchand_Murmu	13th_Lok_Sabha	14th_Lok_Sabha	List_of_political_parties_in_India	Brinda_Karat	List_of_communist_parties	Jyoti_Basu	Prakash_Karat	Sitaram_Yechury	Harkishan_Singh_Surjeet	E._M._S._Namboodiripad	A._K._Gopalan	V._S._Achuthanandan	P._Ramamurthi	Babu_Rao_Mediyam	Thomas_Isaac	E._K._Nayanar	Somnath_Chatterjee	Minati_Sen	Alakesh_Das	Khagen_Das	Basudeb_Acharia	Tarit_Baran_Topdar	Basudeb_Barman	Hannan_Mollah	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Rupchand_Murmu	14th_Lok_Sabha	13th_Lok_Sabha	Conservative_Party_of_Canada	Liberal_Party_of_Canada	List_of_Canadian_politicians_who_have_crossed_the_floor	Ulster_Unionist_Party	Official_Monster_Raving_Loony_Party	Liberal_Party_of_Australia	Ontario_Liberal_Party	Socialist_Party_USA	Party_switching_in_the_United_States	Democratic_Unionist_Party	Dixiecrat	Ontario_New_Democratic_Party	Illinois_Republican_Party	Alberta_New_Democratic_Party	Minnesota_Democratic-Farmer-Labor_Party	Libertarian_Party_of_Michigan	William_Holman	New_Brunswick_New_Democratic_Party	Michigan_Democratic_Party	History_of_the_Green_Party_(United_States)	Bahujan_Samaj_Party	Natural_Law_Party_of_Canada	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Purulia</annotation>
+        <redirects>Puruliya</redirects>
+        <candidates>Purulia	Purulia_(Lok_Sabha_constituency)	Jaipur,_Purulia	Hura,_Purulia	Para,_Purulia	Kashipur,_Purulia	Purulia_district	Balarampur,_Purulia	Raghunathpur,_Purulia	Purulia_arms_drop_case	Bir_Singh_Mahato	Adra_(India)	14th_Lok_Sabha	13th_Lok_Sabha	Manbazar	Arsa	Jhalda	Banduan	All_India_Forward_Bloc	List_of_political_parties_in_India	Barabazar	Puncha	Santaldih	Mamata_Banerjee	Ajodhya_Hills	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Bir_Singh_Mahato</annotation>
+        <redirects />
+        <candidates>Bir_Singh_Mahato	Purulia	13th_Lok_Sabha	14th_Lok_Sabha	Purulia_(Lok_Sabha_constituency)	List_of_political_parties_in_India	All_India_Forward_Bloc	Hiten_Barman	Yulia_Tymoshenko	Indian_general_election,_2004	Subrata_Bose	Jhalda	Jaipur,_Purulia	List_of_National_Highways_in_India	Arsa	Mihir_Sen	Mamata_Banerjee	Tata_Nano	Legislative_Assembly_election_results_of_Orissa	Indian_general_election,_1998	Basudeb_Acharia	State_Assembly_elections_in_India,_2004	Rizwanur_Rahman	Manbazar	List_of_Indian_student_organizations	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Bir_Singh_Mahato</annotation>
+        <redirects />
+        <candidates>All_India_Forward_Bloc	All_India_Forward_Bloc_(Ruikar)	Marxist_Forward_Bloc	14th_Lok_Sabha	Forward_Bloc_(Socialist)	13th_Lok_Sabha	Indian_National_Congress	Bir_Singh_Mahato	Purulia	Indian_independence_movement	List_of_political_parties_in_India	Hiten_Barman	Legislative_Assembly_election_results_of_Orissa	Congress_Socialist_Party	Revolutionary_Socialist_Party_(India)	Socialism_in_India	List_of_recognised_political_parties_in_India	U._Muthuramalingam_Thevar	The_Great_Indian_Novel	Jhalda	Members_of_Rajya_Sabha	Indian_independence_activists	Jaipur,_Purulia	Arsa	Indian_presidential_election,_2007	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Bankura</annotation>
+        <redirects />
+        <candidates>Bankura_(Lok_Sabha_constituency)	Bankura	Bankura_Unnayani_Institute_of_Engineering	Bankura_district	Bishnupur_(Bankura)	Basudeb_Acharia	14th_Lok_Sabha	West_Bengal	13th_Lok_Sabha	Chhatna	Communist_Party_of_India_(Marxist)	Susmita_Bauri	Barjora	Mejia	Sunil_Khan	Mukutmanipur	Sonamukhi	Hura,_Purulia	Para,_Purulia	Basudeb_Barman	Jayrambati	Beliatore	Kashipur,_Purulia	Kangsabati_Project	Bikash_Chowdhury	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Basudeb_Acharia	Sunil_Khan	Susmita_Bauri	Basudeb_Barman	Brinda_Karat	List_of_political_parties_in_India	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	A._K._Gopalan	P._Ramamurthi	Jyoti_Basu	E._M._S._Namboodiripad	V._S._Achuthanandan	Sitaram_Yechury	E._K._Nayanar	Somnath_Chatterjee	Minati_Sen	Khagen_Das	Thomas_Isaac	Samik_Lahiri	Baju_Ban_Riyan	Hannan_Mollah	Alakesh_Das	Tarit_Baran_Topdar	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Communist_Party_of_India_(Marxist)	Basudeb_Acharia	14th_Lok_Sabha	Bankura_(Lok_Sabha_constituency)	13th_Lok_Sabha	Bankura	Nazi_Party	Conservative_Party_of_Canada	Communist_Party_of_Kampuchea	Susmita_Bauri	Alliance_Party_of_Northern_Ireland	Ontario_New_Democratic_Party	Sunil_Khan	Ramkinkar_Baij	Party_switching_in_the_United_States	Ek_Packet_Umeed	Bankura_Unnayani_Institute_of_Engineering	Affiliation_Quebec	Libertarian_Party_of_Oregon	Party_switching	Basudeb_Barman	Constitution_Party_of_Minnesota	Indiana_Democratic_Party	Arizona_Democratic_Party	New_Zealand_Progressive_Party	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Susmita_Bauri	Bikash_Chowdhury	14th_Lok_Sabha	Anil_Basu	List_of_political_parties_in_India	List_of_communist_parties	Bishnupur_(Bankura)	Brinda_Karat	Harkishan_Singh_Surjeet	A._K._Gopalan	Prakash_Karat	Jyoti_Basu	E._M._S._Namboodiripad	Somnath_Chatterjee	V._S._Achuthanandan	E._K._Nayanar	Sitaram_Yechury	P._Ramamurthi	Basudeb_Acharia	Khagen_Das	Baju_Ban_Riyan	Minati_Sen	Basudeb_Barman	Thomas_Isaac	Alakesh_Das	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Susmita_Bauri</annotation>
+        <redirects />
+        <candidates>Susmita_Bauri	14th_Lok_Sabha	Bishnupur_(Bankura)	List_of_political_parties_in_India	Brinda_Karat	List_of_communist_parties	Prakash_Karat	A._K._Gopalan	Harkishan_Singh_Surjeet	Sitaram_Yechury	Jyoti_Basu	E._K._Nayanar	E._M._S._Namboodiripad	P._Ramamurthi	Samik_Lahiri	Khagen_Das	Somnath_Chatterjee	V._S._Achuthanandan	Thomas_Isaac	Basudeb_Acharia	Alakesh_Das	Minati_Sen	Tarit_Baran_Topdar	Baju_Ban_Riyan	Basudeb_Barman	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Susmita_Bauri	Conservative_Party_of_Canada	14th_Lok_Sabha	Communist_Party_of_Great_Britain	Nazi_Party	Communist_Party_of_Kampuchea	Bishnupur_(Bankura)	Bharatiya_Janata_Party	Dixiecrat	Bahujan_Samaj_Party	Alliance_Party_of_Northern_Ireland	Affiliation_Quebec	Party_switching_in_the_United_States	Ontario_New_Democratic_Party	Libertarian_Party_of_Oregon	Party_switching	Constitution_Party_of_Minnesota	Indiana_Democratic_Party	Arizona_Democratic_Party	Democratic_Party_of_Illinois	New_Zealand_Progressive_Party	New_Brunswick_New_Democratic_Party	Montana_Democratic_Party	Natural_Law_Party_of_Ontario	Idaho_Democratic_Party	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Sunil_Khan	Bikash_Chowdhury	Anil_Basu	List_of_political_parties_in_India	List_of_communist_parties	Mahboob_Zahedi	Prakash_Karat	Harkishan_Singh_Surjeet	Brinda_Karat	A._K._Gopalan	Jyoti_Basu	E._M._S._Namboodiripad	Somnath_Chatterjee	V._S._Achuthanandan	E._K._Nayanar	Sitaram_Yechury	Basudeb_Acharia	Khagen_Das	P._Ramamurthi	Thomas_Isaac	Alakesh_Das	Samik_Lahiri	Santasri_Chatterjee	P._Mohan	P._Satheedevi	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Sunil_Khan</annotation>
+        <redirects />
+        <candidates>Sunil_Khan	Durgapur_(Lok_Sabha_constituency)	13th_Lok_Sabha	14th_Lok_Sabha	Brinda_Karat	List_of_political_parties_in_India	Harkishan_Singh_Surjeet	List_of_communist_parties	Prakash_Karat	A._K._Gopalan	P._Ramamurthi	V._S._Achuthanandan	E._M._S._Namboodiripad	Jyoti_Basu	Khagen_Das	Sitaram_Yechury	Somnath_Chatterjee	Thomas_Isaac	E._K._Nayanar	Alakesh_Das	Basudeb_Acharia	Basudeb_Barman	Minati_Sen	Baju_Ban_Riyan	Samik_Lahiri	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Main_Hoon_Na	Fight_Club_-_Members_Only	Indian_National_Congress	Sunil_Khan	Lakeer_-_Forbidden_Lines	Bharatiya_Janata_Party	Paheli	Nagin_(1976_film)	Darna_Zaroori_Hai	Parampara_(film)	List_of_Canadian_politicians_who_have_crossed_the_floor	Shaan_(film)	Kyon_Ki	Kurbaan	Sunday_(2008_film)	Rocky_(1981_film)	Dus	Geeta_Mera_Naam	Awami_National_Party	Hulchul_(2004_film)	Durgapur_(Lok_Sabha_constituency)	LOC_Kargil	Cash_(film)	Mother_India	Chocolate_(Hindi_film)	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Asansol</annotation>
+        <redirects />
+        <candidates>Asansol_(Lok_Sabha_constituency)	Asansol	Asansol_Engineering_College	Bikash_Chowdhury	St._Patrick's_Higher_Secondary_School	14th_Lok_Sabha	13th_Lok_Sabha	St._Vincent's_High_and_Technical_School	Jamuria	Salanpur	Ramnagar,_Kulti	Pangachhiya_(B)	Ratibati	Barabani	Chelad	Raghunathchak	Churulia	Kenda	Amkula	Jemari	Kunustara	Dihika	Banshra	Jemari_(J.K._Nagar_Township)	Murgathaul	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Bikash_Chowdhury</annotation>
+        <redirects />
+        <candidates>Bikash_Chowdhury	Asansol_(Lok_Sabha_constituency)	13th_Lok_Sabha	14th_Lok_Sabha	Asansol	Jamuria	List_of_political_parties_in_India	List_of_communist_parties	Brinda_Karat	Sitaram_Yechury	A._K._Gopalan	Harkishan_Singh_Surjeet	E._M._S._Namboodiripad	Prakash_Karat	E._K._Nayanar	Jyoti_Basu	P._Ramamurthi	Somnath_Chatterjee	V._S._Achuthanandan	T._K._Hamza	Lonappan_Nambadan	Basudeb_Acharia	Khagen_Das	Baju_Ban_Riyan	Thomas_Isaac	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Bikash_Chowdhury	13th_Lok_Sabha	Communist_Party_of_India	14th_Lok_Sabha	Asansol_(Lok_Sabha_constituency)	Asansol	Nazi_Party	Jamuria	Bangladesh_Awami_League	List_of_people_from_West_Bengal	Anuranan	Alliance_Party_of_Northern_Ireland	Revolutionary_Socialist_Party_(India)	St._Patrick's_Higher_Secondary_School	A._Q._M._Badruddoza_Chowdhury	Party_switching_in_the_United_States	Liberal_Democratic_Party_(Bangladesh)	List_of_Bangladeshi_cricketers	All_India_Forward_Bloc_(Ruikar)	List_of_Fellows_of_the_Lalit_Kala_Akademi	Affiliation_Quebec	Libertarian_Party_of_Oregon	Constitution_Party_of_Minnesota	Party_switching	The_Arts_Trust_-_Institute_of_Contemporary_Indian_Art	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>The_University_of_Burdwan</annotation>
+        <redirects>The_University_of_Burdwan	Burdwan_University</redirects>
+        <candidates>The_University_of_Burdwan	Burdwan_(Zamindari)	Burdwan_Municipal_High_School	Burdwan_(Lok_Sabha_constituency)	Burdwan_Municipal_Girls'_High_School	Bardhaman	Nikhilananda_Sar	14th_Lok_Sabha	13th_Lok_Sabha	Bardhaman_district	List_of_political_parties_in_India	West_Bengal_University_of_Health_Sciences	List_of_communist_parties	Prakash_Karat	Brinda_Karat	Bikash_Chowdhury	Jyoti_Basu	Atulya_Ghosh	Anil_Basu	Harkishan_Singh_Surjeet	A._K._Gopalan	Bankura_district	Mangalkot	Khandaghosh	P._Ramamurthi	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Nikhilananda_Sar</annotation>
+        <redirects />
+        <candidates>Nikhilananda_Sar	13th_Lok_Sabha	14th_Lok_Sabha	Burdwan_(Lok_Sabha_constituency)	Mangalkot	List_of_political_parties_in_India	Mahboob_Zahedi	Bikash_Chowdhury	Brinda_Karat	E._K._Nayanar	List_of_communist_parties	Jyoti_Basu	Prakash_Karat	Harkishan_Singh_Surjeet	A._K._Gopalan	Sitaram_Yechury	V._S._Achuthanandan	E._M._S._Namboodiripad	Somnath_Chatterjee	P._Ramamurthi	Basudeb_Acharia	Lonappan_Nambadan	Khagen_Das	Thomas_Isaac	P._Satheedevi	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>List_of_places_in_Afghanistan	Nikhilananda_Sar	Communist_Party_of_India_(Marxist)	13th_Lok_Sabha	14th_Lok_Sabha	Communist_Party_of_Kampuchea	Conservative_Party_of_Canada	Nazi_Party	Burdwan_(Lok_Sabha_constituency)	SAR_Academy	Alliance_Party_of_Northern_Ireland	Ontario_New_Democratic_Party	Affiliation_Quebec	Party_switching_in_the_United_States	Sar-e_Pol_Province	Mangalkot	Libertarian_Party_of_Oregon	Grand_Prix_SAR_La_Princesse_Lalla_Meryem	Sangemarmar_Sar	Omaha_Civic_Auditorium	Party_switching	Constitution_Party_of_Minnesota	Arizona_Democratic_Party	Bikash_Chowdhury	Mahboob_Zahedi	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Katwa</annotation>
+        <redirects>Katoa</redirects>
+        <candidates>Katwa_(Lok_Sabha_constituency)	Katwa	Mahboob_Zahedi	Mangalkot	14th_Lok_Sabha	13th_Lok_Sabha	Panuhat	List_of_political_parties_in_India	Labhpur	Dainhat	List_of_communist_parties	Brinda_Karat	Anil_Basu	Harkishan_Singh_Surjeet	A._K._Gopalan	Bikash_Chowdhury	Jyoti_Basu	E._M._S._Namboodiripad	Sitaram_Yechury	Prakash_Karat	P._Ramamurthi	Suravaram_Sudhakar_Reddy	Khagen_Das	Somnath_Chatterjee	Basudeb_Acharia	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Mahboob_Zahedi</annotation>
+        <redirects />
+        <candidates>Mahboob_Zahedi	13th_Lok_Sabha	14th_Lok_Sabha	Katwa_(Lok_Sabha_constituency)	Brinda_Karat	List_of_political_parties_in_India	Katwa	List_of_communist_parties	Harkishan_Singh_Surjeet	Bhatar	Prakash_Karat	A._K._Gopalan	Sitaram_Yechury	V._S._Achuthanandan	Somnath_Chatterjee	E._K._Nayanar	E._M._S._Namboodiripad	Jyoti_Basu	Basudeb_Acharia	Khagen_Das	P._Ramamurthi	Alakesh_Das	Thomas_Isaac	Basudeb_Barman	Minati_Sen	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Mahboob_Zahedi	Katwa_(Lok_Sabha_constituency)	14th_Lok_Sabha	13th_Lok_Sabha	Katwa	Conservative_Party_of_Canada	Nazi_Party	Communist_Party_of_Kampuchea	I_Am_a_Sex_Addict	Suravaram_Sudhakar_Reddy	Alliance_Party_of_Northern_Ireland	A_Little_Stiff	Ontario_New_Democratic_Party	Fazlollah_Zahedi	In_the_Bathtub_of_the_World	Party_switching_in_the_United_States	I_Don't_Hate_Las_Vegas_Anymore	Tripping_with_Caveh	Bhatar	Color_of_a_Brisk_and_Leaping_Day	Libertarian_Party_of_Oregon	Affiliation_Quebec	Constitution_Party_of_Minnesota	Party_switching	Arizona_Democratic_Party	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>Bolpur</annotation>
+        <redirects />
+        <candidates>Bolpur_(Lok_Sabha_constituency)	Bolpur	Labhpur	14th_Lok_Sabha	Nanoor	Somnath_Chatterjee	13th_Lok_Sabha	Communist_Party_of_India_(Marxist)	Mangalkot	Parliament_of_India	Santiniketan	List_of_political_parties_in_India	Mayureswar	List_of_communist_parties	Santasri_Chatterjee	Abhijan	Kirnahar	Prakash_Karat	Anil_Basu	Brinda_Karat	A._K._Gopalan	Jyoti_Basu	Harkishan_Singh_Surjeet	Bikash_Chowdhury	P._Ramamurthi	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Somnath_Chatterjee</annotation>
+        <redirects />
+        <candidates>Somnath_Chatterjee	Parliament_of_India	14th_Lok_Sabha	Bolpur_(Lok_Sabha_constituency)	13th_Lok_Sabha	Indian_Rebellion_of_1857	Communist_Party_of_India_(Marxist)	Lok_Sabha	1929	July_25	Speaker_(politics)	Bal_Thackeray	Mamata_Banerjee	Communist_Party_of_India_(Marxist-Leninist)_(Kanu_Sanyal)	Socialism_in_India	Ballygunge	List_of_political_parties_in_India	Bolpur	Nanoor_massacre	March_2005_in_India	The_West_Bengal_National_University_of_Juridical_Sciences	Manohar_Joshi	List_of_communist_parties	Brinda_Karat	List_of_University_of_Cambridge_members	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Communist_Party_of_India_(Marxist)	Somnath_Chatterjee	14th_Lok_Sabha	Bolpur_(Lok_Sabha_constituency)	13th_Lok_Sabha	Padma_Bhushan	Bolpur	Communist_Party_of_India_(Marxist-Leninist)_(Kanu_Sanyal)	Revolutionary_Socialist_Party_(India)	Abhijan	List_of_people_from_West_Bengal	Chatterjee	Goopy_Gyne_Bagha_Byne	Ganashatru	Joi_Baba_Felunath	Shakti_Peethas	Hirak_Rajar_Deshe	Nanoor_massacre	Sonar_Kella	List_of_University_of_Calcutta_people	Ghare_Baire_(film)	Dosar	Mahanagar	Affiliation_Quebec	Sukumar_Ray_(film)	NA</candidates>
+      </entity>
+    </row>
+    <row>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Ram_Chandra_Dome	List_of_political_parties_in_India	13th_Lok_Sabha	14th_Lok_Sabha	List_of_Nepal-related_topics	Anil_Basu	Bikash_Chowdhury	List_of_communist_parties	Communist_Party_of_India_(Marxist)	Winners_and_runner-ups_in_the_legislative_elections_of_Nepal_1994_and_1999	Harkishan_Singh_Surjeet	Prakash_Karat	Brinda_Karat	List_of_political_organizations_whose_name_include_"Marxist-Leninist"	A._K._Gopalan	Jyoti_Basu	Somnath_Chatterjee	E._K._Nayanar	P._Ramamurthi	E._M._S._Namboodiripad	Sitaram_Yechury	Basudeb_Acharia	Khagen_Das	V._S._Achuthanandan	List_of_Constituencies_of_Rajasthan_Assembly	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>Ram_Chandra_Dome</annotation>
+        <redirects />
+        <candidates>Ram_Chandra_Dome	13th_Lok_Sabha	14th_Lok_Sabha	Mahboob_Zahedi	List_of_political_parties_in_India	Brinda_Karat	List_of_communist_parties	Harkishan_Singh_Surjeet	Prakash_Karat	Jyoti_Basu	A._K._Gopalan	E._M._S._Namboodiripad	Somnath_Chatterjee	Sitaram_Yechury	V._S._Achuthanandan	P._Ramamurthi	E._K._Nayanar	Minati_Sen	Alakesh_Das	Khagen_Das	Basudeb_Acharia	Thomas_Isaac	Basudeb_Barman	Hannan_Mollah	Baju_Ban_Riyan	NA</candidates>
+      </entity>
+      <entity>
+        <annotation>NA</annotation>
+        <redirects />
+        <candidates>Ram_Chandra_Dome	Communist_Party_of_India_(Marxist)	13th_Lok_Sabha	14th_Lok_Sabha	Padma_Bhushan	Bharatiya_Janata_Party	Indian_National_Congress	Revolutionary_Socialist_Party_(India)	List_of_Constituencies_of_Rajasthan_Assembly	Conservative_Party_of_Canada	Uttar_Pradesh_state_assembly_elections,_2007	All_India_Forward_Bloc	Ghadar_Party	History_of_the_United_States_Republican_Party	Samajwadi_Party	Fiji_Labour_Party	National_Federation_Party_(Fiji)	Bahujan_Samaj_Party	Congress_Socialist_Party	Padma_Shri	Ready_(film)	Winners_and_runner-ups_in_the_legislative_elections_of_Nepal_1994_and_1999	Lok_Janshakti_Party	Ram_Chandra_Paswan	Mahboob_Zahedi	NA</candidates>
+      </entity>
+    </row>
+  </cellAnnotatoons>
+  <relationshipAnnotations>
+    <relAnnos col1="0" col2="2">
+      <yagoRel />
+      <dbpRel />
+      <candidateYagoRels>wasBornIn	livesIn	isAffiliatedTo	isLocatedIn	hasChild	hasWonPrize	isMarriedTo	diedIn	graduatedFrom	directed</candidateYagoRels>
+      <candidateDBpRels>birthPlace	residence	party	state	child	affiliation	region	district	subsequentWork	previousWork</candidateDBpRels>
+    </relAnnos>
+    <relAnnos col1="1" col2="2">
+      <yagoRel />
+      <dbpRel />
+      <candidateYagoRels>isAffiliatedTo	hasWonPrize	livesIn	wasBornIn	graduatedFrom	isLocatedIn	diedIn	isLeaderOf	NA	NA</candidateYagoRels>
+      <candidateDBpRels>party	affiliation	birthPlace	region	deathPlace	residence	otherParty	governor	politicalPartyOfLeader	almaMater</candidateDBpRels>
+    </relAnnos>
+    <relAnnos />
+  </relationshipAnnotations>
+</tableAnnotations>
