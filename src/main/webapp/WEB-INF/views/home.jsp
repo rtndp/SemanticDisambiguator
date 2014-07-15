@@ -213,7 +213,9 @@
 					cell.className = "col-xs-2";*/
 
 					var count = 0;
+
 					/*Loop thru the list of all the candidates and populate all the appropriate cells*/
+
 					for ( var i = 0; i < cellAnnotations.length; i++) {
 
 						/*This is done to split the huge ass space seperated list into an array, 
@@ -275,8 +277,44 @@
 												},
 
 												/*TODO: content is fetched from DBpedia 
-												webservice by making a SPARQL query*/
-												content : "Sachin Ramesh Tendulkar (born 24 April 1973) is an Indian cricketer widely considered to be one of the greatest batsmen of all time. He is the leading run-scorer and century maker in Test and one-day international cricket. He is the first player to score a double century in ODI cricket.",
+												webservice by making a SPARQL query
+												"Sachin Ramesh Tendulkar (born 24 April 1973) is an Indian cricketer widely considered to be one of the greatest batsmen of all time. 
+												He is the leading run-scorer and century maker in Test and one-day international cricket. 
+												He is the first player to score a double century in ODI cricket.",*/
+												content : function() {
+													var result;
+													var element = document
+															.getElementById("Select"
+																	+ this.id);
+
+													var entity = element.options[element.selectedIndex].value;
+
+													var endPoint = "http://dbpedia.org/sparql";
+
+													var query = [
+															"PREFIX dbpedia2: <http://dbpedia.org/resource/>",
+															" PREFIX Abs: <http://dbpedia.org/ontology/>",
+															" SELECT (Str(?C) as ?comment)",
+															" WHERE {<http://dbpedia.org/resource/>", /*Remeber to remove the > to get the query to work*/
+															entity,
+															">",
+															" rdfs:comment ?C",
+															" FILTER (lang(?C) =",
+															"\"en\")}" ]
+															.join("");
+													//alert(query);
+
+													/* function myCallBack(str) {
+														
+														alert(jsonObject.results.bindings[0].comment.value);
+														return jsonObject.results.bindings[0].comment.value;
+													} */
+
+													/* alert(result);
+													return result; */
+													return sparqlQuery(query,
+															endPoint, true);
+												},
 												trigger : "hover",
 												placement : "auto"
 											});
@@ -513,5 +551,52 @@
 							alert(error);
 						};
 					});
+</script>
+
+<!-- This is script is written to query DBpedia and fetch the required comments about an entity -->
+<script type="text/javascript">
+	function sparqlQuery(queryStr, endPoint, isDebug) {
+
+		var queryPart = "query=" + escape(queryStr);
+
+		var xmlhttp = null;
+		if (window.XMLHttpRequest) {
+			xmlhttp = new XMLHttpRequest();
+		} else if (window.ActiveXObject) {
+			// Code for older versions of IE, like IE6 and before.
+			xmlhttp = new ActiveXObject("Microsoft.XMLHTTP");
+		} else {
+			alert('Perhaps your browser does not support XMLHttpRequests?');
+		}
+
+		// GET can have caching probs, so POST
+		xmlhttp.open('POST', endPoint, true);
+		xmlhttp.setRequestHeader('Content-type',
+				'application/x-www-form-urlencoded');
+		xmlhttp.setRequestHeader("Accept", "application/sparql-results+json");
+
+		// Set up callback to get the response asynchronously.
+		xmlhttp.onreadystatechange = function() {
+			if (xmlhttp.readyState == 4) {
+				if (xmlhttp.status == 200) {
+					// Do something with the results
+					if (isDebug) {
+						//alert(xmlhttp.responseText);
+						//var returnVal = callback(xmlhttp.responseText);
+						//alert(returnVal);
+						var jsonObject = JSON.parse(xmlhttp.responseText);
+						return jsonObject.results.bindings[0].comment.value;
+					} else {
+						// Some kind of error occurred.
+						alert("Sparql query error: " + xmlhttp.status + " "
+								+ xmlhttp.responseText);
+					}
+				}
+			}
+			;
+			//Send the query to the endpoint.
+			xmlhttp.send(queryPart);
+		};
+	}
 </script>
 </html>
