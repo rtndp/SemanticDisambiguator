@@ -95,7 +95,7 @@
 <script type="text/javascript" src="resources/js/jquery-1.11.0.js"></script>
 <script type="text/javascript" src="resources/js/bootstrap.js"></script>
 
-
+<!-- FETCH THE XML OUTPUT FROM THE SERVER and DISPLAY -->
 <script type="text/javascript">
 	function fetchXML() {
 		var noOfColumns = 0;
@@ -123,7 +123,8 @@
 
 					/* var cell = row.insertCell(-1);
 					cell.innerHTML = "<input type=\"checkbox\"></td>"; */
-
+					
+					/*************************COLUMN HEADERS******************/
 					for ( var i = 0; i < ColumnHeadersDBpedia.length; i++) {
 						var regexForMultipleSpaces = /\s+/;
 						var headerCandidateList = ColumnHeadersDBpedia[i].childNodes[0].nodeValue
@@ -182,7 +183,7 @@
 											/*TODO: content is fetched from DBpedia 
 											webservice by making a SPARQL query*/
 											content : "Sachin Ramesh Tendulkar (born 24 April 1973) is an Indian cricketer widely considered to be one of the greatest batsmen of all time. He is the leading run-scorer and century maker in Test and one-day international cricket. He is the first player to score a double century in ODI cricket.",
-											trigger : "hover",
+											trigger : "click",
 											placement : "auto"
 										});
 
@@ -295,24 +296,24 @@
 															"PREFIX dbpedia2: <http://dbpedia.org/resource/>",
 															" PREFIX Abs: <http://dbpedia.org/ontology/>",
 															" SELECT (Str(?C) as ?comment)",
-															" WHERE {<http://dbpedia.org/resource/>", /*Remeber to remove the > to get the query to work*/
+															" WHERE {<http://dbpedia.org/resource/>",
 															entity,
-															">",
-															" rdfs:comment ?C",
+															">", /*Remeber to remove the > to get the query to work*/
+															" rdfs:comment?C",
 															" FILTER (lang(?C) =",
 															"\"en\")}" ]
 															.join("");
-													//alert(query);
+													alert(query);
 
-													/* function myCallBack(str) {
+													function myCallBack(str) {
 														
 														alert(jsonObject.results.bindings[0].comment.value);
-														return jsonObject.results.bindings[0].comment.value;
-													} */
+														//return jsonObject.results.bindings[0].comment.value;
+													} 
 
 													/* alert(result);
 													return result; */
-													return sparqlQuery(query,
+													sparqlQuery(query,
 															endPoint, true);
 												},
 												trigger : "hover",
@@ -415,6 +416,7 @@
 </script>
 
 <!-- This function needs to be revisited -->
+<!--  This function is written to load the XML from the users machine. INPUT-->
 <script type="text/javascript">
 	$(document)
 			.on(
@@ -581,11 +583,11 @@
 				if (xmlhttp.status == 200) {
 					// Do something with the results
 					if (isDebug) {
-						//alert(xmlhttp.responseText);
-						//var returnVal = callback(xmlhttp.responseText);
-						//alert(returnVal);
-						var jsonObject = JSON.parse(xmlhttp.responseText);
-						return jsonObject.results.bindings[0].comment.value;
+						alert(xmlhttp.responseText);
+						var returnVal = callback(xmlhttp.responseText);
+						/* alert(returnVal);
+						var jsonObject = JSON.parse(xmlhttp.responseText); */
+						jsonObject.results.bindings[0].comment.value;
 					} else {
 						// Some kind of error occurred.
 						alert("Sparql query error: " + xmlhttp.status + " "
@@ -595,8 +597,9 @@
 			}
 			;
 			//Send the query to the endpoint.
-			xmlhttp.send(queryPart);
+			
 		};
+		xmlhttp.send(queryPart);
 	}
 </script>
 </html>
