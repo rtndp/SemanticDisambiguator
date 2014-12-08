@@ -296,7 +296,7 @@
 															"PREFIX dbpedia2: <http://dbpedia.org/resource/>",
 															" PREFIX Abs: <http://dbpedia.org/ontology/>",
 															" SELECT (Str(?C) as ?comment)",
-															" WHERE {<http://dbpedia.org/resource/>",
+															" WHERE {<http://dbpedia.org/resource/",
 															entity,
 															">", /*Remeber to remove the > to get the query to work*/
 															" rdfs:comment?C",
@@ -307,7 +307,7 @@
 
 													function myCallBack(str) {
 														
-														alert(jsonObject.results.bindings[0].comment.value);
+														//alert(jsonObject.results.bindings[0].comment.value);
 														//return jsonObject.results.bindings[0].comment.value;
 													} 
 
@@ -316,7 +316,7 @@
 													sparqlQuery(query,
 															endPoint, true);
 												},
-												trigger : "hover",
+												trigger : "click",
 												placement : "auto"
 											});
 
@@ -584,7 +584,7 @@
 					// Do something with the results
 					if (isDebug) {
 						alert(xmlhttp.responseText);
-						var returnVal = callback(xmlhttp.responseText);
+						callback(xmlhttp.responseText);
 						/* alert(returnVal);
 						var jsonObject = JSON.parse(xmlhttp.responseText); */
 						jsonObject.results.bindings[0].comment.value;
@@ -594,10 +594,8 @@
 								+ xmlhttp.responseText);
 					}
 				}
-			}
-			;
+			};
 			//Send the query to the endpoint.
-			
 		};
 		xmlhttp.send(queryPart);
 	}
